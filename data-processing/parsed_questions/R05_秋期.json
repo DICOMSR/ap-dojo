@@ -1,0 +1,812 @@
+[
+  {
+    "questionId": "R05_秋期_Q01",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 1,
+    "questionText": "2桁の2進数 x, x。 が表す整数を x とする。2 進数 x。 x, が表す整数を, x の式で表し たものはどれか。ここで, int(r) は非負の実数 r の小数点以下を切り捨てた整数を 表す。 二 7 X 7",
+    "choices": {
+      "a": "2x十4 jnt 2",
+      "b": "2x十5int 2 * X - X",
+      "c": "2x3 intっ lg 2一4 int| っー 間2 複数の変数をもつデータに対する分析手法の記述のうち, 主成分分析はどれか。 ア 変数に共通して影響を与える新たな変数を計算して, データの背後にある構造を 取得する方法 イ 変数の値からほかの変数の値を予測して, データがもつ変数間の関連性を確認す る方法 ウ 変数の値が互いに類似するものを集めることによって, データを分類する方法",
+      "d": "変数を統合した新たな変数を使用して, データがもつつ変数の数を減らす方法"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q04",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 4,
+    "questionText": "図のように16 ビットのデータを 4X4 の正方形状に並べ, 行と列にパリティビット を付加することによって何ビットまでの誤りを訂正できるか。ここで, 図の網掛け部 分はパリティビットを表す。 右回回回回 回題晶回回 回回題回還 右古回古回 回圏回",
+    "choices": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4 mm 5 ニュ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q06",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 6,
+    "questionText": "あるデータ列を整列したら状態 6 から順に状態 1, 2,・・・, N へと推移した。整 列に使った",
+    "choices": {
+      "a": "ク",
+      "b": "挿入ソート",
+      "c": "バブルソート",
+      "d": "ヒープソート 間7 JavaScript のオブジェクトの表記法などを基に して規定したものであって, “名前 と値との組みの集まり” と “値の順序付きリスト\"” の二つの構造に基づいてオブジェ クトを表現する, データ記述の仕様はどれか。 ア DOM イ JSON ウ SOAP エ XML"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q08",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 8,
+    "questionText": "スマートフォンなどで高い処理性能と低消費電力の両立のために, 異なる目的に適 した複数の種類のコ",
+    "choices": {
+      "a": "スーパースカラプロセッサ W",
+      "b": "ソフトコアプロセッサ",
+      "c": "へテロジニアスマルチコアプロセッサ",
+      "d": "ホモジニアスマルチコアプロセッサ ーー 4 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q09",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 9,
+    "questionText": "パイプラインの性能をる向上させるための技法の一つで, 分岐条件の結果が決定する 前に, 分岐先を予測して命令を実行するものはどれか。",
+    "choices": {
+      "a": "アウトオブオーダー実行",
+      "b": "遅延分岐",
+      "c": "投系実行",
+      "d": "レジスタリネーミング"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q19",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 19,
+    "questionText": "ファイルシステムをフラッシュメモリで構成するとき, ブロックごとの書換え回数 を管理することによって, フラッシュメモリの寿命を延ばす技術はどれか。",
+    "choices": {
+      "a": "ウェアレベリング",
+      "b": "ジャーナリッダグ",
+      "c": "シリアル接続した表示デバイスに, 描画コマンドを用いて表示する。",
+      "d": "ライトアンプリフィケーション 間11 画面表示用フレームバッファがユニファイドメモリ方式であるシステムの特徴はど れか。 ア 主記憶とは別に専用のフレームバッファをもつ。 イ 主記憶の一部を表示領域として使用する。 ウ シリアル接続した表示デバイスに, 描画コマンドを用いて表示する。 エ 表示リフレッシュが不要である。 = 8 ュー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q12",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 12,
+    "questionText": "SAN (Storage Area Network) におけるサーバとストレージの接続形態の説明とし て, 適切なものはどれか。",
+    "choices": {
+      "a": "シリアル ATA などの接続方式によって内蔵ストレージとして 1対1 に接続する。",
+      "b": "ファイバチャネルなどによる専用ネットワークで接続する。",
+      "c": "プロトコルは CIFS (Common Internet File System) を使用し, LAN で接続する。",
+      "d": "プロトコルはNFS (Network File System) を使用し, LAN で接続する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q13",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 13,
+    "questionText": "システムの性能を向上させるための方法として, スケール",
+    "choices": {
+      "a": "一連の大きな処理を一括して実行しなければならないので, 並列処理が困難な処 理が中心のシステム",
+      "b": "参照系のトランザクションが多いので, 複数のサーバで分散処理を行っているシ ステム",
+      "c": "データを追加するトランザクションが多いので, データの整合性を取るためのオ ーバーヘッドを小さくしなければならないシステム",
+      "d": "同一のマスターデータベースがシステム内に複数配置されているので, マスター を更新する際にはデータベース間で整合性を保持しなければならないシステム ーー 9 es"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q18",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 18,
+    "questionText": "あるコンピュータ上で, 当該コンピュータとは異なる命令形式のコンピュータで実 行できる目的プログラムを生成する言語処理プログラムはどれか。",
+    "choices": {
+      "a": "エミュレーター",
+      "b": "クロスコンパイラ",
+      "c": "最適化コンパイラ",
+      "d": "プログラムジェネレーター 間19 Linux カーネルの説明として, 適切なかものはどれか。 ア CUI によるコマンド入力のためのシェルと呼ばれるソフトウェアが組み込まれて いて, 文字での操作が可能である。 イ GUI を利用できるデスクトップ環境が組み込まれていて, マウスを使った直感的 な操作が可能である。 ウ Web ブラウザ, ワープロソフト, 表計算ソフトなどが含まれており, Linux カー ネルだけで多くの業務が行える。 エエ プロセス管理やメモリ管理などの, アプリケーションソフトウェアが動作するた めの基本機能を提供する。 間29 FPGAの説明として, 適切なかものはどれか。 ア 電気的に記憶内容の書換えを行うことができる不揮発性メモリ イ 特定の分野及びアプリケーション用に限定した特定用途向け汎用集積回路 ウ 浮動小数点数の演算を高速に実行する演算ユニット エ 論理回路を基板上に実装した後で再プログラムできる集積回路"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q21",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 21,
+    "questionText": "MOS トランジスタの説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "pn 接合における電子と正孔の再結合によって光を放出するという性質を利用し た半導体素子",
+      "b": "pn 接合部に光が当たると電流が発生するという性質を利用した半導体素子",
+      "c": "金属と半導体との間に酸化物絶縁体を挟んだ構造をもつことが特徴の半導体素子",
+      "d": "逆方向電圧をある電圧以上印加すると, 電流だけが増加し電圧がほぼ一定に保た れるという特性をもつ半導体素子 間22 図の論理回路において, S=ニ1, R=1, X=ニ0, Y=ニ1 のとき, $S を一且 0 にした後, 再 び 1 に戻した。この操作を行った後の X, Y の値はどれか。 S X R Y ア Xテ9, Y=0 イ %三6,、Y三1 ウ X=ニ1, Y=6 エ ※ー1。 \\呈】 = 13 に"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q24",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 24,
+    "questionText": "JIS X 9363-1:2006 (ユーザシステムインタフェース及びシンボルー",
+    "choices": {
+      "a": "イコンをどれだけ容易に区別できるかを示す。 間25 バーチャルリアリティに関する記述のかうち, レンダリングの説明はどれか。 ア ウェアラブルカメラ, 慣性センサーなどを用いて非言語情報を認識する処理",
+      "b": "アイコンの図柄の詳細を, どれだけ容易に区別できるかを示す。",
+      "c": "同じ又は類似したアイコンによる以前の経験に基づいて, どれだけ容易にアイコ ンを識別できるかを示す。",
+      "d": "空間的, 時間的又は文脈的に近くに表示された別のアイコンから, 与えられたア イコンをどれだけ容易に区別できるかを示す。 間25 バーチャルリアリティに関する記述のかうち, レンダリングの説明はどれか。 ア ウェアラブルカメラ, 慣性センサーなどを用いて非言語情報を認識する処理 イ 仮想世界の情報をディスプレイに描画可能な形式の画像に変換する処理 ウ 視覚的に現実世界と仮想世界を融合させるために, それぞれの世界の中に定義さ れた 3 次元座標を一致させる処理 エエ 時間経過とともに生じる物の移動などの変化について, モデル化したものを物理 法則などに当てはめて変化させる処理 選"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q27",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 27,
+    "questionText": "関係モデルにおける外部キーの説明として, 適切なものはどれか。",
+    "choices": {
+      "a": "ある関係の候補キーを参照する属性, 又は属性の組",
+      "b": "主キー以外で, タプルを一意に識別できる属性, 又は属性の組",
+      "c": "タプルを一意に識別できる属性, 又は属性の組の集合のうち極小のもの",
+      "d": "タプルを一意に識別できる属性, 又は属性の組を含む集合"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q28",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 28,
+    "questionText": "更新可能なビューを作成する SQL 文はどれか。ここで, SQL 文中に現れる基底表は 全て更新可能とする。",
+    "choices": {
+      "a": "CREATE VIEW 高額商品(商品番号, 商品名, 商品単価) AS SELECT 商品番号, 商品名, 商品単価 FROM 商品 WHERE 商品単価>1900",
+      "b": "CREATE VIEW 受注商品(商品番号) AS SELECT DISTINCT 商品番号 FROM 受注",
+      "c": "CREATE VIEW 商品受注(商品番号, 受注数量) AS SELECT 商品番号, SUM(受注数量) FROM 受注 GROUP BY 商品番号",
+      "d": "CREATE VIEW 商品平均受注数量(平均受注数量) AS SELECT AVG(受注数量) FROM 受注"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q29",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 29,
+    "questionText": "\"製品\" 表と \"在庫\" 表に対し, 次のSQL 文を実行した結果として得られる表の行 数は幾つか。 SELECT DISTINCT 製品番号 FROM 製品 WHERE NOT EXISTS (SELECT 製品番号 FROM 在庫 WHERE 在庫数 > 30 AND 製品.製品番号 = 在庫.製品番号) 製品 在庫 | We | mew | 9 me | wm | %",
+    "choices": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q32",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 32,
+    "questionText": "プライベート IP",
+    "choices": {
+      "a": "CHAP",
+      "b": "TICMP",
+      "c": "SMTP",
+      "d": "SNMP 間34 サブネットマスクが 255. 255.252.9 のとき, IP アドレス 172.30.123.45 のホスト が属するサブネットワークのアドレスはどれか。 ア 172.39.3.0 イ 172.39.129.9 ウ 172.39.123.9 エ 172.39.252.0 に 19 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q35",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 35,
+    "questionText": "IPv4 ネットワークにおけるマルチキャストの使用例に関する記述として, 適切な ものはどれか。",
+    "choices": {
+      "a": "LAN に初めて接続する PC が, DHCP プロトコルを使用して, 自分自身に割り当て られる IP アドレスを取得する際に使用する。",
+      "b": "ネットワーク機器が, ARP プロトコルを使用して, 宛先 IP アドレスから MAC ア ドレスを得るためのリクエストを送信する際に使用する。",
+      "c": "メーリングリストの利用者が, SMTP プロトコルを使用して, メンバー全員に対 し, 同一内容の電子メールを一斉送信する際に使用する。",
+      "d": "ルータがRIP-2 プロトコルを使用して, 隣接するルータのグループに, 経路の更 新情報を送信する際に使用する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q36",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 36,
+    "questionText": "パスワードクラック手法の一種である, レインボーテーブル攻撃に該当するものは どれか。",
+    "choices": {
+      "a": "何らかの方法で事前に利用者 ID と平文のパスワードのリストを入手しておき, 複数のシステム間で使い回されている利用者 ID とパスワードの組みを狙って, ロ グ",
+      "b": "パスワードに成り得る文字列の全てを用いて, 総当たりでログインを試行する。",
+      "c": "平文のパスワードとハッシュ値をチェーンによって管理するテーブルを準備して おき, それを用いて, 不正に入手したハッシュ値からパスワードを解読する。",
+      "d": "利用者の誕生日, 電話番号などの個人情報を言葉巧みに聞き出して, パスワード を類推する。 ("
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q37",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 37,
+    "questionText": "椿円曲線暗号の特徴はどれか。",
+    "choices": {
+      "a": "RSA 暗号と比べて, 短い鍵長で同レベルの安全性が実現できる。",
+      "b": "共通鍵暗号方式であり, 暗号化や復号の処理を高速に行うことができる。",
+      "c": "総当たりによる解読が不可能なことが, 数学的に証明されている。",
+      "d": "データを秘匿する目的で用いる場合, 復号鍵を秘密にしておく必要がない。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q49",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 49,
+    "questionText": "JIS Q 27099 : 2019 (情報セキュリティマネジメントシステムーー用語) において, 認可されていない個人, エンティティ又はプロセスに対して, 情報を使用させず, ま た, 開示しない特性として定義されているものはどれか。",
+    "choices": {
+      "a": "機密性",
+      "b": "真正性",
+      "c": "認証",
+      "d": "否認防止"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q41",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 41,
+    "questionText": "暗号機能を実装した IoT 機器における脅威のうち, サイドチャネル攻撃に該当する ものはどれか。",
+    "choices": {
+      "a": "暗号化関数を線形近似する式を導き, その線形近似式から秘密情報の取得を試み る。",
+      "b": "機器が発する電磁波を測定することによって秘密情報の取得を試みる。",
+      "c": "二つの平文の差とそれぞれの暗号文の差の関係から, 秘密情報の取得を試みる。",
+      "d": "理論的にあり得る復号鍵の全てを機器に入力して秘密情報の取得を試みる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q422",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 422,
+    "questionText": "セキュ",
+    "choices": {
+      "a": "BIOS にパスワードを設定し, PC 起動時に BI1OS のパスワード入力を要求すること によって, 0S の不正な起動を防ぐ技術",
+      "b": "HDD 又は SSD にパスワードを設定し, PC 起動時に HDD 又は SSD のパスワード入力 を要求することによって, 0S の不正な起動を防ぐ技術",
+      "c": "PC の起動時に 05 のプログラムやドライバのデジタル署名を検証し, デジタル署 名が有効なものだけを実行することによって, 0S 起動完了前のマルウェアの実行 を防ぐ技術",
+      "d": "マルウェア対策ソフトを 05 のスタートアッププログラムに登録し, 0S 起動時に 自動的にマルウェアスキャンを行うことによって, マルウェアの被害を防ぐ技術 ニ敵 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q43",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 43,
+    "questionText": "PC のストレージ上の重要なデータを保護する方法のうち, ランサムウェ",
+    "choices": {
+      "a": "WORM (Write Once Read Many) 機能を有するストレージを導入して, そこに重要 なデータをバックアップする。",
+      "b": "ストレージを RAID5 構成にして, 1 台のディスク故障時にも重要なデータを利用 可能にする。",
+      "c": "内蔵ストレージを増設して, 重要なデータを常時レプリケーションする。",
+      "d": "ネットワーク上のストレージの共有フォルダをネットワークドライブに割り当て て, そこに重要なデータをバックアップする。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q44",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 44,
+    "questionText": "DKIM (DomainKeys Identified MaiL) に関する記述のうち, 適切ながものはどれか。",
+    "choices": {
+      "a": "送信側のメールサーバで電子メールにデジタル署名を付与し, 受信側のメールサ ーバでそのデジタル署名を検証して送信元ドメ",
+      "b": "送信者が電子メールを送信するとき, 送信側のメールサーバは, 送信者が正規の 利用者かどうかの認証を利用者 ID とパスワードによって行う。",
+      "c": "送信元ドメイン認証に失敗した際の電子メールの処理方法を記載したポリシーを DNS サーバに登録し, 電子メールの認証結果を監視する。",
+      "d": "電子メールの送信元ドメインでメール送信に使うメールサーバの IP アドレスを DNS サーバに登録しておき, 受信側で送信元ドメインの DNS サーバに登録されてい る IP アドレスと電子メールの送信元メールサーバの IP アドレスとを照合する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q45",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 45,
+    "questionText": "DNSSEC についての記述のうち, 適切なかものはどれか。",
+    "choices": {
+      "a": "DNS サーバへの問合せ時の送信元ポート番号をランダムに選択することによって, DNS 問合せへの不正な応答を防止する。",
+      "b": "DNS の再帰的な問合せの送信元として許可するクライアントを制限することによ って, DNS を悪用した DoS 攻撃を防止する。",
+      "c": "共通鍵暗号方式によるメッセージ認証を用いることによって, 正当な DNS サーバ からの応答であることをクライアントが検証できる。",
+      "d": "公開鍵暗号方式によるデジタル署名を用いることによって, 正当な DNS サーバか らの応答であることをクライアントが検証できる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q46",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 46,
+    "questionText": "問題を引き起こす可能性があるデータを大量に入力し, そのときの応答や挙動を監 視することによって, ソフトウェ",
+    "choices": {
+      "a": "限界値分析",
+      "b": "実験計画法",
+      "c": "プロトタイピング",
+      "d": "ロードテスト 間47 アプリケーションソフトウェアの開発環境上で, 用意された部品やテンプレートを GUI による操作で組み合わせたり, 必要に応じて一部の処理のソースコードを記述し たりして, ソフトウェアを開発する手法はどれか。 ア 継続的インテグレーション イ ノーコード開発 ウ プロトタイピング エエ ローコード開発"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q48",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 48,
+    "questionText": "問題は発生していないが, プログラムの仕様書と現状のソースコードとの不整合を 解消みするために, リバースエンジニ",
+    "choices": {
+      "a": "完全化保守",
+      "b": "是正保守",
+      "c": "適応保守",
+      "d": "予防保守 間49 アジャイルソフトウェア開発宣言では, “あることがらに価値があることを認めな がらも別のことがらにより価値をおく\" としている。“\"別のことがら” に該当するも のの組みはどれか。 ア 個人と対話, 動くソフトウェア, 顧客との協調, 変化への対応 イ 個人と対話, 包括的ながドキュメント, 顧客との協調, 計画に従うこと ウ プロセスやツール, 動くソフトウェア, 契約交渉, 変化への対応 エ プロセスやツール, 包括的なドキュメント, 契約交渉, 計画に従うこと 間59 組込みシステムのソフトウェア開発に使われる IDE の説明として, 適切なかものはど れか。 ア エディター, コンパイラ, リンカ, デバッガなどが一体となったツール イ 専用のハードウェアインタフェースでCPU の情報を取得する装置 ウ ターゲットCPUを搭載した評価ボードなどの実行環境 エ タスクスケジューリングの仕組みなどを提供するソフトウェア ーー 26 P"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q52",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 52,
+    "questionText": "システム開発のプロジェクトにおいて, EVM を活用したパフォーマンス管理をして いる。 開発途中のある時点で EV一PV の値が負であるとき, どのような状況を示して いるか。",
+    "choices": {
+      "a": "スケジュール効率が, 計画よりも良い。",
+      "b": "プロジェクトの完了が, 計画よりも遅くなる。",
+      "c": "プロジェクトの進捗が, 計画よりも遅れている。",
+      "d": "プロジェクトの進捗が, 計画よりも進んでいる。 ss 27 es"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q54",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 54,
+    "questionText": "プロジェクトマネジメントにおいて, コンティンジェンシー計画を作成するプロセ スはどれか。",
+    "choices": {
+      "a": "リスクの管理",
+      "b": "リスクの特定",
+      "c": "リスクの評価",
+      "d": "リスクへの対応 ー 28 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q55",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 55,
+    "questionText": "サービスマネジメントシステム (SMS) における是正処置の説明はどれか。",
+    "choices": {
+      "a": "検出された不適合又はほかの望ましくない状況の原因を除去する, 又は再発の起 こりやすさを低減するための処置",
+      "b": "構成品目の変更の展開に伴って, 構成情報を更新する処置",
+      "c": "パフォーマンスを向上するために繰り返し行われる活動であって, SMS 及びサー ビスの適切性, 妥当性及び有効性を継続的に改善するための処置",
+      "d": "問題を “記録・分類にし, “優先度付け\" し, “必要ならばエスカレーション” し, “可能ならば解決する\"一連の処置"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q56",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 56,
+    "questionText": "Y 社は, 受注管理システムを運用し, 顧客に受注管理サービスを提供している。 日 数が 30 日, 月曜日の回数が 4 回である月において, サービス提供条件を達成するた めに許容されるサービスの停止時間は最大何時間か。ここで, サービスの停止時間は, 小数第 1 位を切り捨てるものとする。 [サービス提供条件〕 ・サービスは, 計画停止時間を除いて, 毎日9 時から 24時まで提供する。 ・ 計画停止は, 毎週月曜日の 9 時から 6時まで実施する。 ・サービスの可用性は 99%以上とする。",
+    "choices": {
+      "a": "6",
+      "b": "6",
+      "c": "7",
+      "d": "13 ー 29 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q59",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 59,
+    "questionText": "販売管理システムにおいて, 起票された受注伝票の入力が, 漏れなく, かつ, 重複 することなく実施されていることを確かめる監査手続として, 適切なかものはどれか。",
+    "choices": {
+      "a": "受注データから値引取引データなどの例外取引データを抽出し, 承認の記録を確 かめる。",
+      "b": "受注伝票の入力時に論理チェック及びフォーマットチェックが行われているか, テストデータ法で確かめる。",
+      "c": "販売管理システムから出力したプルーフリストと受注伝票との照合が行われてい るか, プルーフリストと受注伝票上の照合印を確かめる。",
+      "d": "並行シミュレーション法を用いて, 受注伝票を処理するプログラムの論理の正確 性を確かめる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q69",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 69,
+    "questionText": "金融庁 “財務報告に係る内部統制の評価及び監査に関する実施基準 (令和元年) \" における “IT への対応”\" に関する記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "TIT 環境とは, 企業内部に限られた範囲での IT の利用状況である。",
+      "b": "TTの統制は, IT に係る全般統制及び IT に係る業務処理統制から成る。",
+      "c": "TIT の利用によって統制活動を自動化している場合, 当該統制活動は有効である と評価される。",
+      "d": "TIT を利用せず手作業だけで内部統制を運用している場合, 直ちに内部統制の不 備となる。 ー 31 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q63",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 63,
+    "questionText": "SOA を説明したものはどれか。",
+    "choices": {
+      "a": "企業改革において既存の組織やビジネスルールを抜本的に見直し, 業務フロー, 管理機構及び情報システムを再構築する手法のこと",
+      "b": "企業の経営資源を有効に活用して経営の効率を向上させるために, 基幹業務を部 門ごとではなく統合的に管理するための業務システムのこと",
+      "c": "発注者と IT アウトソーシングサービス提供者との間で, サービスの品質につい て合意した文書のこと",
+      "d": "ビジネスプロセスの構成要素とそれを支援する IT 基盤を, ソフトウェア部品で あるサービスとして提供するシステムアーキテクチャのこと"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q64",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 64,
+    "questionText": "IT 投資効果の評価方法において, キャッシュフローベースで初年度の投資による キャッシュ",
+    "choices": {
+      "a": "TIRR (Internal Rate of Return)",
+      "b": "NPV (Net Present Value)",
+      "c": "PBP (Pay Back Period)",
+      "d": "ROI (Return On Investment)"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q65",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 65,
+    "questionText": "システム開発の成果物が利害関係者の要件 (要求事項) を満たしているという客観 的な証拠を得るための検証手法として, JIS X 9166:2921 (システム及びソフトウェ",
+    "choices": {
+      "a": "インスペクション",
+      "b": "テスト",
+      "c": "デモンストレーション",
+      "d": "分析又はシミュレーション"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q66",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 66,
+    "questionText": "半導体メーカーが行っているファウンドリーサービスの説明として, 適切なものは どれか。",
+    "choices": {
+      "a": "商号や商標の使用権とともに, 一定地域内での商品の独占販売権を与える。",
+      "b": "自社で半導体製品の企画, 設計から製造までを一貫して行い, それを自社ブラン",
+      "c": "製造設備をもたず, 半導体製品の企画, 設計及び開発を専門に行う。",
+      "d": "他社からの製造委託を受けて, 半導体製品の製造を行う。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q67",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 67,
+    "questionText": "H. 1.",
+    "choices": {
+      "a": "既存製品か新製品かという製品軸と既存市場か新市場かという市場軸の両軸で捉 え, 事業成長戦略を考える。",
+      "b": "コストで優位に立つかコスト以外で差別化するか, ターゲットを広くするがかが集中 するかによって戦略を考える。",
+      "c": "市場成長率が高いか低いか, 相対的市場シェアが大きいか小さいかによって事業 を捉え, 資源配分の戦略を考える。",
+      "d": "自社の内部環境の強みと弱み, 取り巻く外部環境の機会と脅威を抽出し, 取組方 針を整理して戦略を考える。 間68 顧客から得る同意の範囲を段階的に広げながら, プロモーションを行うことが特徴 的なマーケティング手法はどれか。 ア アフィリエイトマーケティング イ 差別型マーケティング ウ パーミッションマーケティング エエ バイラルマーケティング"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q69",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 69,
+    "questionText": "市場を消費者特性でセグメント化する際に, 基準となる変数を, 地理的変数, 人口 統計的変数, 心理的変数, 行動的変数に分類するとき, 人口統計的変数に分類される ものはどれか。",
+    "choices": {
+      "a": "社交性などの性格",
+      "b": "職業",
+      "c": "人口密度",
+      "d": "製品の使用割合 間79 オープンイノベーションの説明として, 適切なかものはどれか。 ア 外部の企業に製品開発の一部を任せることで, 短期間で市場へ製品を投入する。 イ 顧客に提供する製品やサービスを自社で開発することで, 新たな価値を創出する。 ウ 自社と外部組織の技術やアイディアなどを組み合わせることで創出した価値を, さらに外部組織へ提供する。 エ 自社の業務の工程を見直すことで, 生産性向上とコスト削減を実現する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q71",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 71,
+    "questionText": "CPS (サイバーフィジカルシステム) を活用している事例はどれか。",
+    "choices": {
+      "a": "仮想化された標準的なシステム資源を用意しておき, 業務内容に合わせてシステ ムの規模や構成をソフトウェアによって設定する。",
+      "b": "機器を販売するのではなく貸し出し, その機器に組み込まれたセンサーで使用状 況を検知し, その情報を基に利用者から利用料金を徴収する。",
+      "c": "業務処理機能やデータ蓄積機能をサーバにもたせ, クライアント側はネットワー ク接続と最小限の入出力機能だけをもたせてデスクトップの仮想化を行う。",
+      "d": "現実世界の都市の構造や活動状況のデータによって仮想世界を構築し, 災害の発 生や時間軸を自由に操作して, 現実世界では実現できないシミュレーションを行う。 ーー 35 ee"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q73",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 73,
+    "questionText": "スマートファクトリーで使用される AI を用いたマシンビジョンの目的として, 適 切なものはどれか。",
+    "choices": {
+      "a": "作業者が装着した VR ゴーグルに作業プロセスを表示することによって, 作業効 率を向上させる。",
+      "b": "従来の人間の目視検査を自動化し, 検査効率を向上させる。",
+      "c": "需要予測を目的として, クラウドに蓄積した入出荷データを用いて機械学習を行 い, 生産数の最適化を行う。",
+      "d": "設計変更内容を, AI を用いて吟味して, 製造現場に正確に伝達する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q75",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 75,
+    "questionText": "リーダーシップ論のうち, F. E. フィードラーが提唱するコンティンジェンシー理 論の特徴はどれか。",
+    "choices": {
+      "a": "優れたリーダーシップを発揮する, リーダー個人がもつ性格, 知性, 外観などの 個人的資質の分析に焦点を当てている。",
+      "b": "リーダーシップのスタイルについて, 目標達成能力と集団維持能力の二つの次元 に焦点を当てている。",
+      "c": "リーダーシップの有効性は, 部下の成熟 (自律性) の度合いという状況要因に依 存するとしている。",
+      "d": "リーダーシップの有効性は, リーダーがもつパーソナリティと, リーダーがどれ だけ統制力や影響力を行使できるかという状況要因に依存するとしている。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q76",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 76,
+    "questionText": "発生した故障について, 発生要因ごとの件数の記録を基に, 故障発生件数で上位を 占める主な要因を明確に表現するのに適している図法はどれか。",
+    "choices": {
+      "a": "特性要因図",
+      "b": "パレート図",
+      "c": "マトリックス図",
+      "d": "連関図"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q77",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 77,
+    "questionText": "取得原価 30 万円の PC を2 年間使用した後, 廃棄処分し, 廃棄費用 2 万円を現金で 支払った。このときの固定資産の除却損は廃茎費用も含めて何万円か。ここで, 耐用 年数は 4 年, 減価償却方法は定額法, 定額法の償却率は 9.250, 残存価額は 6 円とす る。",
+    "choices": {
+      "a": "9.5",
+      "b": "13.6",
+      "c": "15.6",
+      "d": "17.0 esa 37 em"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q79",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 79,
+    "questionText": "匿名加工情報取扱事業者が, 適正な匿名加工を行った匿名加工情報を第三者提供す る際の義務として, 個人情報保護法に規定されているものはどれか。",
+    "choices": {
+      "a": "第三者に提供される匿名加工情報に含まれる個人に関する情報の項目及び提供方 法を公表しなければならない。",
+      "b": "第三者へ提供した場合は, 速やかに個人情報保護委員会へ提供した内容を報告し なければならない。",
+      "c": "第三者への提供の手段は ハードコピーなどの物理的な媒体を用いることに限ら れる。",
+      "d": "匿名加工情報でわっても, 第三者提供を行う際には事前に本人の承諾が必要であ る。 |"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_秋期_Q80",
+    "examYear": "R05",
+    "examSeason": "秋期",
+    "questionNumber": 80,
+    "questionText": "図は, 企業と労働者の関係を表している。企業 B と労働者 C の関係に関する記述の うち, 適切なかものはどれか。",
+    "choices": {
+      "a": "“契約” が請負契約で, 企業A が受託者, 企業 B が委託者であるとき, 企業Bと 労働者C との間には, 指揮命令関係が生じる。",
+      "b": "“契約\" が出向にかかわる契約で, 企業A が企業 B に労働者C を出向させたとき, 企業 B と労働者C との間には指揮命令関係が生じる。",
+      "c": "\"契約\" が労働者派遣契約で, 企業A が派遣元, 企業 B が派遣先であるとき, 企 業 B と労働者C の間にも, 雇用関係が生じる。",
+      "d": "\"契約\" が労働者派遣契約で, 企業A が派遣元, 企業 B が派遣先であるとき, 企 業 B に労働者C が出向しているといえる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]

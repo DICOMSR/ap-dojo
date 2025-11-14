@@ -1,0 +1,902 @@
+[
+  {
+    "questionId": "R07_春期_Q01",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 1,
+    "questionText": "論理式 P, Q がいずれも真であるとき, 論理式 R の真偽にかかわらず真になる式は どれか。ここで, “。 ” は否定を, “WV” は論理和を,“信\" は論理積を, “っ\"は含意 で真一偽 となるときに限り偽となる演算) を表す。",
+    "choices": {
+      "a": "((Pっ0)人(0っP))っ(Rっ6G )",
+      "b": "((Pっ0)人(0っP))っ(0ユR)",
+      "c": "((PっQ)V(QOっP)) っ(Rユ6 )",
+      "d": "((Pっ0)V(QOっP))っ(0っR)"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q02",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 2,
+    "questionText": "9ミx全1 の範囲で単調に増加する連続関数 f (x) が†(9@) ご0 ミ「f(1) を満た すときに, 区間内で f (x) 三 0 である x の値を近似的に求める",
+    "choices": {
+      "a": "19",
+      "b": "29",
+      "c": "109",
+      "d": "1.000 、 トー- 4 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q04",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 4,
+    "questionText": "リ",
+    "choices": {
+      "a": "0S を使用しないで応答する。",
+      "b": "定められた制限時間内に応答する。",
+      "c": "入力された順序を守って応答する。",
+      "d": "入力時刻を記録して応答する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q05",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 5,
+    "questionText": "A, B, C の順序で入力されるデータがある。各データについてスタックへの挿入と 取出しを 1 回ずつ行うことができる場合., データの出力順序は何通りあるか。 MM還 ) B, C 。 ス タ 以 B",
+    "choices": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6 = 5 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q07",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 7,
+    "questionText": "fact (n) は, 非負の整数 n に対して n の階乗を返す。fact (n) の再帰的な定義は どれか。",
+    "choices": {
+      "a": "if n=0⑳ then return 9 else return nXfact (ロー1)",
+      "b": "if n= then return 9 else return nXfact (n寺1)",
+      "c": "if n=9 then return 1 else return nXfact (nー1)",
+      "d": "if n=9 then return 1 else return nXfact (n十1)"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q09",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 9,
+    "questionText": "DMAコントローラーの説明として, 適切なものはどれか。 hP |",
+    "choices": {
+      "a": "MPU では時間が掛かる積和演算を, 高速に行う。 前",
+      "b": "仮想メモリ機能, メモリ保護機能などのメモリ管理機能を提供する。",
+      "c": "動作クロックに合わせてカウントするカウントレジスタをもち, それによって時 間の経過を保持する。",
+      "d": "メモリと入出力装置, 叉はメモリとメモリとの間のデータ転送を, MPU を介さず に行う。 es 7 寺雪"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q13",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 13,
+    "questionText": "図のように3 個の装置を並列と直列に組み合わせて構成したシステムがある。装置 単体の稼働率と, システムの稼働率の関係を示したグラフはどれか。ここで, 3 個の 装置の稼働率は, 全て等しいものとする。 上",
+    "choices": {
+      "a": "1.6",
+      "b": "1.9 ス 抽\" ス Ei Ki の の 本 の 6 9 6 9.5 1.0 9 0.5 1.6 装置単体の稼働率 装置単体の稼働率",
+      "c": "1.6",
+      "d": "1.6 シ |グー シ | アプ テ が\" 9 8 の が の : 稼 \"/ : 稼 ゾーメ 働 ーノ : 働 で 率 | 率 ー 9 a2 : 9 e 6 6.5 1.6 0 6.5 1.9 装置単体の稼働率 装置単体の稼働率"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q14",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 14,
+    "questionText": "リ",
+    "choices": {
+      "a": "休止状態",
+      "b": "実行可能状態",
+      "c": "終了状態",
+      "d": "待ち状態"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q15",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 15,
+    "questionText": "仮想記憶管理におけるページ置換え",
+    "choices": {
+      "a": "4000",
+      "b": "5900",
+      "c": "6000",
+      "d": "7900"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q17",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 17,
+    "questionText": "0penAPI Specification に従った API の定義・開発を支援する機能を提供する 0SS はどれか。",
+    "choices": {
+      "a": "curl",
+      "b": "OpenAM",
+      "c": "Serverspec",
+      "d": "Swagger 間18 8ビット D/A 変換器を使って負でない電圧を発生させる。 使用する D/A 変換器は, 最下位の 1 ビットの変化で出力が 19 ミリ V変化する。データに 9 を与えたときの出 力は9 ミリVである。データに 16 進数で 82 を与えたときの出力は何ミリ V か。 ア 829 イ 1,024 ウ 1,.300 エ 1,312"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q19",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 19,
+    "questionText": "産業機器の制御装置として使われる PLC の説明として, 適切なものはどれか。",
+    "choices": {
+      "a": "自動制御であり, 偏差の比例, 積分及び微分の 3 要素で制御する。",
+      "b": "主としてラダー図を用いたシーケンスプログラムによって制御する。",
+      "c": "電圧及び電流のアナログ信号をデジタル信号に変換する。",
+      "d": "リレーシーケンス回路のハードウェアによって制御する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q29",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 29,
+    "questionText": "FPGA などに実装するデジタル回路を記述し, 論理合成するために使用される言語 はどれか。 、",
+    "choices": {
+      "a": "DDL",
+      "b": "HDL",
+      "c": "UML",
+      "d": "XML 。 ー 12 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q21",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 21,
+    "questionText": "of システムにおいて, センサーの値をゲートウェイに送信するセンサーノードの 消費電流を抑えるため, 図のような間欠動作を考える。センサーノードの動作時間 は 19 ミリ秒で, その間は平均して 19mA の電流が流れる。待機中は常に 9.1A の電 湊が流れる。 間欠動作の平均電流を 1A 以下にするための待機時間として, 最も短 いものはどれか。ここで, 平均電流の値を求める時間は十分に長いものとする。 動作時間 待機時間 (10ミリ秒) 日 まき つデ 時間",
+    "choices": {
+      "a": "1.1秒",
+      "b": "11.1秒",
+      "c": "111.1秒",
+      "d": "1111.1 秒"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q24",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 24,
+    "questionText": "大量の IoT デバイスから送信される大量で, かつ様々な形式のデータを格納可能な データモデルのうち, 行ごとに任意の列数をもち, かつ列ごとに複数の値をもつこと によって, 桑軟なデータ格納を実現しているデータモデルはどれか。",
+    "choices": {
+      "a": "グラフ",
+      "b": "ドキュメント",
+      "c": "リレーショナル",
+      "d": "ワイドカラム"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q25",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 25,
+    "questionText": "UML を用いて表した図のデータモデルを関係データベース上に実装する際の解釈の うち, 適切なものはどれか。 ト 制約 : \"注文\" のインスタンス が指定送付先をもつときは, その “付加情報\" の注文主と \"注文\" . |の顧客は一致すること。 顧客番号 玉| 注文番号 | | |品目番号 請求先 受注日 名称 主送付先 数量 1 注文主 E ネ 制約 : \"注文\"のインスタンス 付加情報 いヽ、| が指定送付先をもつときは, 当該 識別番号 0..1 ee Pe 指定送付先 はなく, “指定送付先” の副送付 副送付先]\"。 先を用いること。",
+    "choices": {
+      "a": "“指定送付先” を指定する際, \"付加情報\" 表のどの行でも選択できる。",
+      "b": "“付加情報\" 表と“顧客” 表の行数は一致していなければならない。",
+      "c": "“付加情報\" 表には\"顧客\" 表に対する参照制約を指定する。",
+      "d": "“付加情報\" 表には \"注文\" 表に対する参照制約を指定する。 間26 関係を第2 正規形から第 3 正規形に変換する手順はどれか。 Em ア 候補キー以外の属性から, 候補キーの一部の属性に対して関数従属性がある場合, 昌 その関係を分解する。 イィ 候補キー以外の属性間に関数従属性がある場合, その関係を分解する。 ウ 候補キーの一部の属性から, 候補キー以外の属性への関数従属性がある場合, そ の関係を分解する。 エ ーーつの属性に複数の値が入っている場合, 単一の値になるように分解する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q27",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 27,
+    "questionText": "SQL 文に示す参照制約が存在する “商品” 表と受注” 表とがある。 “商品” 表の 行を削除したとき, 削除した行の商品コードと同じ値の商品コードをもつ \"受注” 表 の行を自動的に削除する SQL 文として, a に入れる字句はどれか。 | | ee. CREATE TABLE 商品 ( 商品コード CHAR(4) PRIMARY KEY , 商品名 VARCHAR(64) ) CREATE TABLE 受注 ( 受注番号 INTEGER PRIMARY KEY , 商品コード CHAR(4) , 受注個数 INTEGER , 納品日 CHAR(8) , FOREIGN KEY (商品コード) REFERENCES 商品(商品コード) ON DELETE |_ sa | )",
+    "choices": {
+      "a": "CASCADE",
+      "b": "RESTRICT",
+      "c": "SET DEFAULT",
+      "d": "SET NULL"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q28",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 28,
+    "questionText": "和両立である関係R と S がある。 RT]S と等しいものはどれか。ここで, 一は差演 算, は共通演算を表す。 」",
+    "choices": {
+      "a": "(RS) 一 (S一R)",
+      "b": "R一(RS)",
+      "c": "R一(SR)",
+      "d": "S一(RS) 5 16 1"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q29",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 29,
+    "questionText": "無線LAN の",
+    "choices": {
+      "a": "PLC",
+      "b": "PoE",
+      "c": "UPS",
+      "d": "USB"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q30",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 30,
+    "questionText": "MTU (Maximum Transmission Unit) が 1,599 バイトに設定された IPv4 ネットワー クで, 2,009 バイ トのデータを TCP を用いて送信するときに, ニつ目に送信されるパ ケットに含まれるデータは何バイトか。ここで, TCP ヘッダー長は 20 バイト, IP へ ッダー長は 26 バイト, イーサネットのヘッ ダー長とトレーラー長は, それぞれ 14 バ イトと 4 バイトとする。 また, データを複数パケットに分割して送信するときは, 先 に送信するパケッ トに格納できる上限までデータ を含めて送信するものとする。",
+    "choices": {
+      "a": "5090",
+      "b": "トのデータを TCP を用いて送信するときに, ニつ目に送信されるパ ケットに含まれるデータは何バイトか。ここで, TCP ヘッダー長は 20 バイト, IP へ ッダー長は 26 バイト, イーサネットのヘッ ダー長とトレーラー長は, それぞれ 14 バ イトと 4 バイトとする。 また, データを複数パケットに分割して送信するときは, 先 に送信するパケッ トに格納できる上限までデータ を含めて送信するものとする。 ア 5090 イ 546",
+      "c": "580",
+      "d": "598"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q31",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 31,
+    "questionText": "次のルーティ ングテーブルをもつルータが宛先 IP",
+    "choices": {
+      "a": "109.1.0.1",
+      "b": "19.1.0.2",
+      "c": "10.1.0.3",
+      "d": "109.1.0.4"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q34",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 34,
+    "questionText": "230k バイトの JPEG ファイルを電子メールに添付するとき, 実際の転送データはお よそ何k バイトになるか。ここで, 添付ファイルはMIME base64 を用いてエンコーデ ィングされるものとする。",
+    "choices": {
+      "a": "29",
+      "b": "396",
+      "c": "49",
+      "d": "66 ー 18 一 「"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q37",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 37,
+    "questionText": "暗号機能を実装した IoT 機器における脅威のうち, サイドチャネル攻撃に該当する ものはどれか。",
+    "choices": {
+      "a": "暗号化関数を線形近似する式を導き, その線形近似式から秘密情報の取得を試み る。 「",
+      "b": "機器が発する電磁波を測定することによって秒密情報の取得を試みる。",
+      "c": "二つの平文の差とそれぞれの暗号文の差の関係から, 秘密情報の取得を試みる。",
+      "d": "理論的にあり得る復号鍵の全てを機器に入力して秘密情報の取得を試みる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q38",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 38,
+    "questionText": "PKIを構成する 0CSP を利用する目的はどれか。",
+    "choices": {
+      "a": "誤って破棄してしまった秘密鍵の再発行処理の進捗状況を問い合わせる。",
+      "b": "デジタル証明書から生成した鍵情報の交換が 0CSP クライアントと0CSP レスポン ダーの間で失敗した際, 認証状態を確認する。",
+      "c": "デジタル証明書が失効しているかどうかの状態を問い合わせる。 中 有効期限が切れたデジタル証明書の更新処理の進捗状況を確認する。 間39 欧米などの企業, 組織で行わもれている\"セキュリティクリアランス\"の事例はどれ か。 ア インターネットと重要な秘密情報を取り扱う組織内ネットワークとを, 物理的に 分離する。 イ 重要な秘密情報へのアクセス権を付与されたアカウントを定期的に調べ, 不要な 場合は削除する。 ウ 重要な秘密情報を取り扱う部署に配属される予定の個人の適性を評価する。",
+      "d": "離席時に机の上の重要な秘密情報を含む書類や媒体を片付ける。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q49",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 49,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "ソフトウェアでの利用者認証に用いるアカウントの一元管理",
+      "b": "ソフト",
+      "c": "ソフトウェアのソースコードについてのバージョン管理,アクセス制御及び改ざ ん防止",
+      "d": "ソフトウェアのソースコードのバックアップとマルウェア混入防止"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q42",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 42,
+    "questionText": "Web",
+    "choices": {
+      "a": "SQL 文の組立ては全てプレースホルダで実装する。",
+      "b": "シェルを起動できる言語機能を利用した実装を避ける。",
+      "c": "直接メモリにアクセスできる言語機能を利用した実装を避ける。",
+      "d": "利用者が入力したファイル名にディレクトリが含まれていないかのエラーチェッ クを実装する。 ss 22 寺"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q44",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 44,
+    "questionText": "パスワードクラックの対策のうち, ストレッチングに該当するものはどれか。",
+    "choices": {
+      "a": "あらかじめ利用者だけが知っている質問と答えをシステムに登録しておき, 普段 と異なるログ",
+      "b": "一定時間内にパスワードを一定回数誤ったとき, それ以降のログインを試行でき ないようにする。",
+      "c": "パスワードの照合のためのハッシュ値を, パスワードに対してハッシュ化を繰り 返して, 求める。",
+      "d": "パスワードの照合のためのハッシュ値を, パスワードに利用者 ID ごとに異なる 文字列を付加してからハッシュ化して, 求める。 一 23 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q45",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 45,
+    "questionText": "デザインレビューの目的はどれか。",
+    "choices": {
+      "a": "設計工程内で, 設計工程の成果物の問題点を発見する。 |",
+      "b": "品質保証部門が, 全成果物の出荷の可否を判定する。",
+      "c": "品質保証部門によるプログラムのサンプリング検査によって, 設計者では気付か | ない品質上の問題点を発見する。",
+      "d": "プロジェクトマネジメントのプロセス上の問題点を発見する。 |"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q46",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 46,
+    "questionText": "システムをバージョン",
+    "choices": {
+      "a": "ブルーグリーンデプロ",
+      "b": "ホットスタンバイ",
+      "c": "ホットスワップ",
+      "d": "ローリングアップデート"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q47",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 47,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "(運用期間中に発生した不具合件数) + (プログラムの規模)",
+      "b": "(適正規模の基準を満たすプログラムの数) + (プログラムの総数)",
+      "c": "(テスト実施済みの分岐の数) ~ー (プログラムの総分岐数)",
+      "d": "(プログラムの推定総エラー数) 一 (摘出エラー数) ー 24 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q48",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 48,
+    "questionText": "XP (Extreme Programming) のプラクティ スの一つであるものはどれか。",
+    "choices": {
+      "a": "構造化プログラミング",
+      "b": "コンポーネント指向プログラミング",
+      "c": "ビジュアルプログラミング",
+      "d": "ペアプログラミング"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q49",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 49,
+    "questionText": "分散システムの脆弱性を実験によって発見する手法であるカオスエンジニ",
+    "choices": {
+      "a": "“開発環境で実験を行う\", “影響範囲を局所化する\"",
+      "b": "“開発環境で実験を行う\", \"影響範囲を広く捉える\"",
+      "c": "“本番環境で実験を行う\", \"影響範囲を局所化する\"",
+      "d": "“本番環境で実験を行う\", \"影響範囲を広く捉える\""
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q59",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 59,
+    "questionText": "スクラムにおいて繰り返し実行するイベントのうち, ステークホルダに作業の結果 をプレゼンテーションして, プロダクトゴールに対する進捗について話し合い, 必要 に応じてスコープを調整するイベントはどれか。 た プリシトジラシルニッンダ イ スプリントレビュー ウ デイリースクラム エエ レトロスペクティブ | 間51 プロジェクトマネジメントにおける “プロジェクト憲章 の説明はどれか。",
+    "choices": {
+      "a": "プロジェクトの実行, 監視, 管理の方法を規定するために, スケジュール, リス クなどに関するマネジメントの役割や責任などを記した文書",
+      "b": "スプリントレビュー",
+      "c": "デイリースクラム",
+      "d": "レトロスペクティブ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q52",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 52,
+    "questionText": "EVM を使用してマネジメントをしているプロジェクトで, 進捗に関する指標値は次 のとおりであった。このプロジェクトに対する適切な評価と対策はどれか。 [進捗に関する指標値] CPI (コスト効率指数) : 9.9 SPI (スケジュール効率指数) : 1.1 BAC (完成時総予算) に基づく TCPI (残作業効率指数) : 1.2",
+    "choices": {
+      "a": "コストが予算を超えているが, スケジュールには余裕があり, 残作業のコスト効 率を計画よりも上げる必要はないので, CP1 に基づいて完成までに必要なコストを 予測する。",
+      "b": "コストが予算を超えているので, 完成時総予算を超過するおそれがあるが, スケ ジュールには余裕があるので, 残作業のコスト効率を上げる対策を検討するか, コ ンティンジェンシー予備費の使用を検討する。",
+      "c": "コストには余裕があるが, スケジュールが予定より遅れており, 残作業のコスト 効率を計画よりも上げる必要があるので, ファスト トラッキングなどを用いたスケ ジュール短縮を検討するとともに, コンティンジェンシー予備費の使用を検討する。",
+      "d": "コストには余裕があるので, 残作業のコスト効率を計画よりも上げる必要はない が, スケジュールが予定より遅れているので, クラッシングなどを用いたスケジュ ール短縮を検討する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q53",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 53,
+    "questionText": "プロジェクトの期間を短縮する方法のうち, クラッシングに該当するものはどれか。",
+    "choices": {
+      "a": "作業の前後関係を組み直し, 実施する順番を変える。",
+      "b": "作業を分析し, 同時に実施できる部分を複数の作業に分割し, 並行して実施する。",
+      "c": "先行作業の一部の成果物が完成した時点で, 後続作業を開始する。",
+      "d": "プロジェクトの外部から要員を調達し, クリティカルパス上の作業に投入する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q55",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 55,
+    "questionText": "あるサービスでは【サービス可用性の SLA] に基づき, サービス可用性の目標値の 遵守状況を月ごとに測定して評価している。ある月の実績値は 99.3%%だった。この 月にサービス可用性の目標値を達成するためには, サービス停止時間は, 最低, 何時 間少なければよかったか。 [サービス可用性の SLAJ ・サービス可用性の目標値 : 99.5%以上 ・サービス提供時間帯 : 7 時一22 時 ・サービス提供日数 : 2 日月",
+    "choices": {
+      "a": "09.4",
+      "b": "0.6",
+      "c": "1.3",
+      "d": "1.95 ー 29 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q57",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 57,
+    "questionText": "サービスの継続的改善で, 改善の達成目標を設定して活動するとき, “サービスの 提供やマネジメントの成功に重要な要因\"を特定したものを何というか。",
+    "choices": {
+      "a": "CSF",
+      "b": "KGI",
+      "c": "KPI",
+      "d": "OKR 区"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q69",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 69,
+    "questionText": "システム管理基準 (令和5年) における, ユーザ受入テストに関する監査のチェッ クポイントとして, 適切なものはどれか。",
+    "choices": {
+      "a": "構築された情報システムに, 業務要件が適切に反映されていることを確認するた めに, 利用者の立場からテストされていること",
+      "b": "情報システムの稼働後に, IT 戦略における目標を達成しているかどうかを確認 するために, 客観的な情報に基づいてテストされていること",
+      "c": "利用者からのシステム要件が適切に反映されていることを確認するために, 情報 システムの全ての構成要素について, 中間成果物も含めてレビューされていること",
+      "d": "利用者が情報システムを利用できるようにするために, 情報システムの移行後に 移行結果について, 本番環境が利用可能かどうかレビューされていること に 31 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q62",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 62,
+    "questionText": "A 社は, ソリューションプロバイダから, 顧客に対するワントゥワンマーケティン グを実現する統合的なソリューションの提案を受けた。この提案に該当するソリュー ションとして, 適切なかものはどれか。",
+    "choices": {
+      "a": "CRMソリューション",
+      "b": "HRMソリューション",
+      "c": "SCMソリューション",
+      "d": "財務管理ソリューション 間63 クラウドサービスなどの提供を迅速に実現するためのプロビジョ ニングの説明はど れか。 ア 企業の情報システムの企画, 設計, 開発, 導入, 保守などのサービスを, 一貫し て又は工程の幾つかを部分的に提供する。 イ 業種や事業内容などで共通する複数の企業や組織が共同でデータセンターを運用 して, それぞれがインターネットを通して各種サービスを利用する。 ウ 自社でハードウェア, ネットワークなどの環境を用意し, 業務パッケージなどを 導入して利用する運用形態にする。 エエ 利用者の需要を予想し, ネットワーク設備やシシステムリソースなどを計画的に調 達して強化し, 利用者の要求に応じたサービスを提供できるように備える。 ーー 32 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q64",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 64,
+    "questionText": "製品 Xと製品 Y を販売している企業が, 見積作成と提案書作成に掛かる業務時間を, それぞれ 26%削減できるシステムの構築を検討している。Activity-Based Costing を用いて, 次の条件が洗い出された。本システム構築による製品 X の見積作成と製品 X の提案書作成に関する月間総人件費削減効果は幾らか。 [条件〕 ・ 製品 X の見積作成に掛かる月間業務時間は, 50 時間 ・ 製品 X の提案書作成に掛かる月間業務時間は, 50 時間 ・ 製品 Y の見積作成に掛かる月間業務時間は, 100 時間 ・ 製品 Y の提案書作成に掛かる月間業務時間は, 400 時間 ・製品 X と製品 Y の見積作成に掛かる月間総人件費は, 60 万円 ・ 製品 X と製品 Y の提案書作成に掛かる月間総人件費は, 360 万円 見積作成と提案書作成は, それぞれ人件費単価が異なる部門が担っている。 ・ 製品 X と製品 Y の見積作成に掛かる人件費単価は, 同じである。 ・ 製品 X と製品 Y の提案書作成に掛かる人件費単価は, 同じである。",
+    "choices": {
+      "a": "4万円",
+      "b": "8万円",
+      "c": "12万円",
+      "d": "14万円"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q66",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 66,
+    "questionText": "ベンダーX 社に対して, 表に示すように要件定義フェーズから運用テストフェーズ までを委託したい。X 社との契約に当たって, “情報システム・モデル取引・ 契約書 ぐ第二版” に照らし, 各フェーズの契約形態を整理した。a一d の契約形態のうち, 準委任型が適切であるとされるものはどれか。 | 、 ユー 、 ユー ソフトウェ",
+    "choices": {
+      "a": "a,b",
+      "b": "a, d",
+      "c": "b,c",
+      "d": "b, d"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q67",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 67,
+    "questionText": "市場成長率と相対的市場シェ",
+    "choices": {
+      "a": "3C",
+      "b": "BSC",
+      "c": "PPM",
+      "d": "SWOT"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q68",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 68,
+    "questionText": "プライ スライニング戦略はどれか。",
+    "choices": {
+      "a": "消費者が選択しやすいように, 複数の価格帯に分けて商品を用意する。",
+      "b": "スライニング戦略はどれか。 ア 消費者が選択しやすいように, 複数の価格帯に分けて商品を用意する。 イ 商品の品質の良さやステータスを訴えるために意図的に価格を高く設定する。",
+      "c": "商品本体の価格を安く設定し, 関連消耗品の販売で利益を得る。",
+      "d": "新商品に高い価格を設定して早い段階で利益を回収する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q79",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 79,
+    "questionText": "フリーミ",
+    "choices": {
+      "a": "Web サ",
+      "b": "全ての利用者に広く課金するモデルである。",
+      "c": "有料と無料の境界が明確になかっていて, 高度な機能や充実した内容など有料のサ ービスの優位性がはっきりしている。",
+      "d": "利用者ごとに掛かるコストが大きいので, 少数の利用者が限定的に使うような場 合にだけ, より高い効果が見込める。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q71",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 71,
+    "questionText": "クラウドで学習し, エッジデバイスで推論する機械学習ベースのエッジ AI におい て, エッジデバイスで行われる推論処理として, 適切なものはどれか。",
+    "choices": {
+      "a": "一定の環境の中で試行錯誤を行い, 行動に報酬を与えることで学習するプロセス",
+      "b": "学習したモデルに従い, 実際にデータの識別などを行うプロセス",
+      "c": "識別などを行うためのモデルを, 正解のラベルを付けたデータによって作成する プロセス",
+      "d": "識別などを行うためのモデルを, 正解のラベルを付けないデータによって作成す るプロセス cm 36 に"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q72",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 72,
+    "questionText": "スマートファクトリーで使用される AI を用いたマシンビジョンの目的として, 適 切なものはどれか。 巴 クラウドに次積した入出荷データを用いて AI が需要予測し, 生産数を最適化す る。 イ 作業者が装着した VR ゴーグルに AI が作業状況に応じたガイドを表示するととに よって, 作業効率を向上させる。 ウ 設計変更内容を AI によって整理し, 製造現場に正確に伝達する。 エエ 人間の目視検査を AI が代替し, 検査効率を向上させる。 間73 コンピテンシーモデルの説明はどれか。",
+    "choices": {
+      "a": "権限行使と命令統制による労務管理を批判し, 目標管理制度や経営参加制度など による動機付けが有効でもるとしたもの",
+      "b": "作業者が装着した VR ゴーグルに AI が作業状況に応じたガイドを表示するととに よって, 作業効率を向上させる。",
+      "c": "設計変更内容を AI によって整理し, 製造現場に正確に伝達する。",
+      "d": "人間の目視検査を AI が代替し, 検査効率を向上させる。 間73 コンピテンシーモデルの説明はどれか。 ア 権限行使と命令統制による労務管理を批判し, 目標管理制度や経営参加制度など による動機付けが有効でもるとしたもの イ 最適なリーダーシップの唯一のスタイルは存在せず, 望ましいリーダーシップの スタイルは, 状況に応じて異なるとしたもの ウ 人材の評価や育成の基準とするために, 恒常的に成果に結び付けることができる 個人の行動や思考特性を定義したもの 嘆 人間の基本的欲求を低次から, 生理的欲求, 安全の欲求, 所属と愛の欲求, 承誰 の欲求, 自己実現の欲求としたもの ー 37 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q74",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 74,
+    "questionText": "様々な項要予測モデルのもととなっている時系列モデルに関する記述として, 適切 なものはどれか。",
+    "choices": {
+      "a": "移動平均法では, 平均する期間を長くするほど, 短期的な需要の変化の影響が大 きくなる。 |",
+      "b": "移動平均法は, 長期的な需要のトレンドを把握するのには向かないが, 直近の霊 要の変化を把握するのには向いている。",
+      "c": "指数平滑法では, 平滑化定数の値が 9%に近いほど直前の実績値を重視し. | 199%に近いほど過去の実績値を重視する。",
+      "d": "指数平滑法は, 過去の実績値よりも直近の実績値を用いるほど予測の精度が向上 | すると考えられる場合に有効な手法である。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q75",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 75,
+    "questionText": "引き出された多くの事実や",
+    "choices": {
+      "a": "NM法",
+      "b": "ゴードン法",
+      "c": "親和図法",
+      "d": "ブレーンストーミング ー 38 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q77",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 77,
+    "questionText": "売上高が 7,900 万円のとき, 200 万円の損失, 売上高が 9, 990 万円のとき, 6600 万 円の利益と予想された。 売上高が 8, 900 万円のときの変動費は何万円か。ここで, 売 上高が変わっても変動費率は変わらないものとする。",
+    "choices": {
+      "a": "3,200",
+      "b": "4,.0090",
+      "c": "4. 860",
+      "d": "5,600"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q78",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 78,
+    "questionText": "著作権法及び関連法令によれば, 生成 AI を利用して画像を生成する行為又はその | 生成物の利用が著作権侵害にあたるか否かに関して, 適切な記述はどれか。 |",
+    "choices": {
+      "a": "AI が既存の著作権で保護されている画像をデータセットとして学習している場 | 合は, その AI を利用して画像を生成すると, いかなる場合も著作権侵害になる。 |",
+      "b": "AI を利用して生成した画像が著作権で保護された既存の画像と類似しており. それを公開した場合, 著作権侵害となる可能性がある。",
+      "c": "AT を利用して生成した画像は, AI が自動的に創作したものであるため, いかな | る状況でも著作権の対象外となり, 著作権侵害の懸念は生じない。 .",
+      "d": "AT を利用して生成した画像は, 生成した本人の私的使用に限って, 利用が認め られており, 商業利用を行った場合は, いかなる場合も著作権侵害となる。 間79 資金決済法における暗号資産に関する記述として, 適切なかものはどれか。 ア 暗号資産交換業者は, 情報の安全管理や広告・勧誘規制などの行為規制は受ける が, 資本金額や純資産額などの財務的規制は受けない。 イ 暗号資産は, 不特定の者に対して使用でき, 電子的に記録され, 移転できるもの であり, 法定通貨又は法定通貨建ての資産ではないが, 法定通貨と相互に交換でき る。 ウ 暗号資産は。 ブロックチェーン技術を用いて集中管理されており, 法定通貨と同 様, 銀行などの金融機関で入手・交換できる。 エ 利用者の保有する暗号資産の残高や取引は, 発行者によって利用者ごとに管理さ れているので, 利用者は保有している暗号資産を発行者の指定する加盟店だけで使 用できる。 ー 40 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R07_春期_Q89",
+    "examYear": "R07",
+    "examSeason": "春期",
+    "questionNumber": 89,
+    "questionText": "欧州へ電子部品を輸出するには, RoHS 指令への対応が必要である。この RoHS 指令 の目的として, 適切なかものはどれか。",
+    "choices": {
+      "a": "家電製品から有用な部品や材料をリサ",
+      "b": "機器が発生する電磁妨害が, 無線通信機器及びその他の機器の正常な動作を妨げ るレベルを超えないようにする。",
+      "c": "大量破壊兵器の開発及び拡散, 通常兵器の過剰備将に関わるおそれがある場合な ど, 国際社会の平和と安全を脅かす輸出行為を防止する。",
+      "d": "電気電子製品の生産から処分までの全ての段階で, 有害物質が環境及び人の健康 に及ぼす危険を最小化する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]

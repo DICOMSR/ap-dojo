@@ -1,0 +1,794 @@
+[
+  {
+    "questionId": "R02_秋期_Q01",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 1,
+    "questionText": "正の整数の 10 進表示の桁数と 2 進表示の桁数 p との関係を表す式のうち, 最 も適切がものはどれか。",
+    "choices": {
+      "a": "のカミ21ogjpぢ",
+      "b": "の=101ogzぢ",
+      "c": "のカテlogz 10",
+      "d": "の=ぢlogi。 2"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q03",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 3,
+    "questionText": "式A填BXC の逆ポーランド表記法による表現として, 適切なものはどれか。",
+    "choices": {
+      "a": "十XCBA",
+      "b": "※十ABC",
+      "c": "ABC※十",
+      "d": "CBA十※ | 『 ーー 3 ドー*"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q05",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 5,
+    "questionText": "ポインタを用いた線形リストの特徴のうち, 適切なかものはどれか。",
+    "choices": {
+      "a": "先頭の要素を根とした ヵ 分木で, 先頭以外の要素は全て先頭の要素の子である。",
+      "b": "配列を用いた場合と比較して, 2 分探索を効率的に行うことが可能である。",
+      "c": "ポインタから次の要素を求めるためにハッシコュ関数を用いる。",
+      "d": "ポインタによって指定されている要素の後ろに, 新たな要素を追加する計算量 は, 要素の個数や位置によらず一定である。 ーーュー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q06",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 6,
+    "questionText": "円周率zの値を近似的に求める方法のうち, モンテカルロ法を応用したものはど れか。",
+    "choices": {
+      "a": "正方形の中に一様乱数を用いて多数の点をとったとき, その点の個数と正方形 に内接する円の中にある点の個数の比が, 点の個数を多くすると両者の面積比で ある 4 : zzに近づくことを用いて求める。",
+      "b": "正方形の中に等間隔に多数の格子点をとったとき, その格子点の個数と正方形 に内接する円の中にある格子点の個数の比が, 格子点の間隔を細かくすると両者 の面積比である4 : zに近づくことを用いて求める。",
+      "c": "直径 1 の円に内接する正 ヵ 角形の周の長さと円の直径の比が, ヵ を大きくする とz : 1に近づくことを用いて求める。",
+      "d": "直径 1 の円に内接する正 ヵ 角形の面積と円に内接する正方形の面積の比が, % を大きくするとz : 2に近づくことを用いて求める。 間7 オブジェクト指向のプログラム言語であり, クラスや関数, 条件文などのコード ブロックの範囲はインデントの深さによって指定する仕様であるものはどれか。 ア JavaScript イ Perl ウ Python エエ Ruby"
+    },
+    "correctAnswer": "a",
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q08",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 8,
+    "questionText": "CPUのスタックポインタが示すものとして, 最も適切なものはどれか。",
+    "choices": {
+      "a": "サブルーチン呼出し時に, 戻り先アドレス, レジスタの内容などを格納するメ モリのアドレス",
+      "b": "次に読み出す機械語命令が格納されているアドレス",
+      "c": "メモリから読み出された機械語命令",
+      "d": "割込みの許可状態, 及び条件分岐の判断に必要な演算結果の状態 レー 5 wae"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q19",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 19,
+    "questionText": "メモリの誤り検出及び訂正を行う方式のうち, 2 ビットの誤り検出機能と, 1 ビッ トの誤り訂正機能をもつものはどれか。",
+    "choices": {
+      "a": "奇数パリティ",
+      "b": "水平パリティ",
+      "c": "チェックサム",
+      "d": "ハミング符号 eee 6 Pa"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q11",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 11,
+    "questionText": "3D 映像の立体視を可能とする仕組みのうち,",
+    "choices": {
+      "a": "専用の特殊なディスプレ",
+      "b": "ディスプレイに赤色と青色で右目用, 左目用の映像を重ねて描画し, 一方のリ ム (フレームにおいてレンズを囲む部分) に赤, 他方のリムに青のフィルタを付 けた眼鏡で見ることによって, 立体視を可能とする。",
+      "c": "ディスプレイに右目用, 左目用の映像を交互に映し出し, 眼鏡がそのタイミン グに合わせて左右それぞれ交互に遂過, 遮断することによって, 立体視を可能と する。",
+      "d": "ディスプレイに右目用, 左目用の映像を同時に描画し, フィルタを用いてそれ ぞれの映像の光の振幅方向を回転して, 居過する振幅方向が左右で異なる偏光眼 鏡で見ることによって, 立体視を可能とする。 | ーァー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q13",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 13,
+    "questionText": "複数のサーバを用いて構築されたシステムに対するサーバコンソリデーションの 説明として, 適切なものはどれか。",
+    "choices": {
+      "a": "各サーバに存在する複数の磁気ディスクを, 特定のサーバから利用できるよう にして, 資源の有効活用を図る。",
+      "b": "仮想化ツソフト",
+      "c": "サーバのうちいずれかを監視専用に変更することによって, システム全体のセ キュリティを強化する。",
+      "d": "サーバの故障時に正常なサーバだけで瞬時にシステムを再構成し, サーバ数を 減らしてでも運転を継続する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q14",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 14,
+    "questionText": "MTBF を長くするよりも, MTTR を短くするのに役立つものはどれか。",
+    "choices": {
+      "a": "エラーログ取得機能",
+      "b": "記憶装置のビット誤り訂正機能",
+      "c": "命令再試行機能",
+      "d": "予防保守"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q15",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 15,
+    "questionText": "次のシステムにおいて, ピーク時間帯の CPU 使用率は何%か。ここで, トランザ クションはレコード",
+    "choices": {
+      "a": "20",
+      "b": "30",
+      "c": "50",
+      "d": "60"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q16",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 16,
+    "questionText": "記憶領域の動的な割当て及び解放を繰り返すことによって, どこからも利用でき ない記憶領域が発生することがある。このような記憶領域を再び利用可能にする機 能はどれか。",
+    "choices": {
+      "a": "ガーベジコレクション",
+      "b": "スタック",
+      "c": "ヒープ",
+      "d": "フラグメンテーション"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q29",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 29,
+    "questionText": "SRAM と比較した場合の DRAM の特徴はどれか。",
+    "choices": {
+      "a": "主にキャッシュメモリとして使用される。",
+      "b": "データを保持するためのリフレッシュ又はアクセス動作が不要である。",
+      "c": "メモリセル構成が単純なので, ビット当たりの単価が安くなる。",
+      "d": "メモリセルにフリップフロップを用いてデータを保存する。 間21 FPGA などに実装するディジタル回路を記述して, 直接論理合成するために使用 されるものはどれか。 ア DDL イ HDL ウ UML エエ XML"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q25",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 25,
+    "questionText": "800X600 ピクセル, 24 ビットカラーで 30 フレームノ秒の動画像の配信に最小限 必要な帯域幅はおよそ幾らか。ここで, 通信時にデータ有圧縮は行わかいものとする。",
+    "choices": {
+      "a": "350k ビットノ秒",
+      "b": "3.5M ビットノ秒",
+      "c": "35Mビットンノ秒",
+      "d": "350Mビットンノ秒"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q26",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 26,
+    "questionText": "表に対する SQL の GRANT 文の説明として, 適切かものはどれか。",
+    "choices": {
+      "a": "パスワードを設定してデータベースへの接続を制限する。",
+      "b": "ビューを作成して, ビューの基となる表のアクセスできる行や列を制限する。",
+      "c": "表のデータを暗号化して, 第三者がアクセスしてもデータの内容が分からない 貞の値する。",
+      "d": "表の利用者に対し, 表への問合せ, 更新, 追加, 削除などの操作権限を付与す る。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q27",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 27,
+    "questionText": "UML を用いて表した図のデータモデルから, “部品” 表, “納入\" 表及び “メー カ\" 表を関係データベース上に定義するときの解釈のうち, 適切かものはどれか。 部品番号 | ※|納入日 [|ま _ 1|メーカ番号 部品名 数量 メーカ名 。",
+    "choices": {
+      "a": "同一の部品を同一のメーカから複数回納入することは許されない。",
+      "b": "“納入” 表に外部キーは必要ない。",
+      "c": "部品番号とメーカ番号の組みを“納入” 表の候補キーの一部にできる。",
+      "d": "“メーカ” 表は, 外部キーとして部品番号をもつことになる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q28",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 28,
+    "questionText": "関係 “注文記録\" の属性間に ① ~ ⑯ の関数従属性があり, それに基づいて第 3 正規形まで正規化を行って, “商品\", “顧客\", “注文\", “注文明細”\" の各関係に分解 した。 関係“注文明細” として, 適切なかものはどれか。ここで, {, T) は, 属性",
+    "choices": {
+      "a": "注文明細 (注文番号, 顧客番号, 商品番号, 顧客名, 数量, 販売単価)",
+      "b": "注文明細 (注文番号, 顧客番号, 数量, 販売単価)",
+      "c": "注文明細 (注文番号, 商品番号, 数量, 販売単価)",
+      "d": "注文明細 (注文番号, 数量, 販売単価)"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q39",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 39,
+    "questionText": "トランザクションの ACID 特性のうち, 耐久性 (durabihty) に関する記述として, 適切なかものはどれか。",
+    "choices": {
+      "a": "正常に終了したトランザクションの更新結果は, 障害が発生してもデータベー スから消失しないこと",
+      "b": "データベースの内容が矛盾のない状態であること",
+      "c": "トランザクションの処理が全て実行されるか, 全く実行されないかのいずれか で終了すること",
+      "d": "複数のトランザクションを同時に実行した場合と, 順番に実行した場合の処理 結果が一致すること 間31 無線 LAN のアクセスポイントや TP 電話機などに, LAN ケーブルを利用して給電 も行う仕組みはどれか。 ア PLC イ PoE ウ UPS エ USB"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q32",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 32,
+    "questionText": "図のようなネットワーク構成のシステムにおいて, 同じメッセージ長のデータを ホストコンピュータとの間で送受信した場合のターン",
+    "choices": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "40"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q33",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 33,
+    "questionText": "スイッチングハブ (レイヤ 2 スイッチ) の機能として, 適切なかものはどれか。",
+    "choices": {
+      "a": "IP アドレスを解析することによって, データを中継するか破棄するかを判断す る。",
+      "b": "MAC アドレスを解析することによって, 必要な LAN ポートにデータを流す。",
+      "c": "0SI基本参照モデルの物理層において, ネットワークを延長する。 「",
+      "d": "互いに直接, 通信ができないトランスポート層以上の二つの異なるプロトコル の翻訳作業を行い, 通信ができるようにする。 ー ,"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q36",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 36,
+    "questionText": "認証局が発行する CRL に関する記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "CRL には, 失効したディジタル証明書に対応する秘密鍵が登録される。",
+      "b": "CRL には, 有効期限内のディジタル証明書のうち失効したディジタル証明書の シリアル番号と失効した日時の対応が提示される。",
+      "c": "CRL は, 鍵の漏えい, 失効申請の状況とそりアルタイムに反映するプロトコルで ある。",
+      "d": "有効期限切れで失効したディジタル証明書は, 所有者が新たなディジタル証明 書を取得するまでの間, CRL に登録される。 間37 PC からサーバに対し, IPv6 を利用した通信を行う場合,ネットワーク層で暗号 化を行うときに利用するものはどれか。 ア TIPsec イ PPP ウ SSH エエ TLS"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q38",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 38,
+    "questionText": "OCSP クライ",
+    "choices": {
+      "a": "ディジタル証明書全体を OCSP レスポンダに送信し, その応答でディジタル証 明書の有効性を確認する。",
+      "b": "ディジタル証明書全体を 0CSP レスポンダに送信し, その応答としてタイムス タンプトークンの発行を受ける。",
+      "c": "ディジタル証明書のシリアル番号, 証明書発行者の識別名 (DN) のハッシュ値 などを OCSP レスポンダに送信し, その応答でディジタル証明書の有効性を確認 する。",
+      "d": "ディジタル証明書のシリアル番号, 証明書発行者の識別名 (DN) のハッシュ値 などを OCSP レスポンダに送信し, その応答としてタイムスタンプトークンの発 行を受ける。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q39",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 39,
+    "questionText": "SEO ポイズニングの説明はどれか。",
+    "choices": {
+      "a": "Web 検索サ",
+      "b": "車などで移動しながら, 無線 LAN のアクセスポイントを探し出して, ネットワ ークに侵入する。",
+      "c": "ネットワークを流れるパケットから, 侵入のパターンに合致するものを検出し て, 管理者への通知や, 検出した内容の記録を行う。",
+      "d": "マルウェア対策ソフトのセキュリティ上の脆弱性を悪用して, システム権限で 不正な処理を実行させる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q41",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 41,
+    "questionText": "クリプトジャッキングに該当するものはどれか。",
+    "choices": {
+      "a": "PC にマルウェアを感染させ, その PC の CPU などが有する処理能力を不正に 利用して, 暗号資産の取引承認に必要となる計算を行い, 報酬を得る。",
+      "b": "暗号資産の取引所から利用者のアカ",
+      "c": "カード加盟店に正規に設置されている, カードの磁気ストライプの情報を読み 取る機器から, カード情報を初取する。",
+      "d": "利用者の PC を利用できなくし, 再び利用できるようにするのと引換えに金銭 を要求する。 間42 暗号方式に関する記述のうち, 適切なものはどれか。 ア AES は公開鍵暗号方式, RSA は共通鍵暗号方式の一種である。 イ 共通鍵暗号方式では, 暗号化及び復号に同一の鍵を使用する。 ウ 公開鍵暗号方式を通信内容の秘匿に使用する場合は, 暗号化に使用する鍵を秘 密にして, 復号に使用する鍵を公開する。 エエ ディジタル署名に公開鍵暗号方式が使用されることはなく, 共通鍵暗号方式が 使用される。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q44",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 44,
+    "questionText": "TPM (Trusted Platform Module) に該当するものはどれか。",
+    "choices": {
+      "a": "PC などの機器に搭載され, 鍵生成, ハッシュ演算及び暗号処理を行うセキュリ ティチップ",
+      "b": "受信した電子メールが正当な送信者から送信されたものであることを保証する, 送信ドメイン朗証技術",
+      "c": "ファイアウォール, 侵入検知, マルウェア対策など, 複数のセキュリティ機能 を統合したネットワーク監視装置",
+      "d": "ログデータを一元的に管理し, セキュリティイベントの監視者への通知及び相 関分析を行うシステム"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q45",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 45,
+    "questionText": "電子メールをスマートフォンで受信する際のメールサーバとスマートフォンとの 間の通信をメール本文を含めて暗号化するプロトコルはどれか。",
+    "choices": {
+      "a": "APOP",
+      "b": "IMAPS",
+      "c": "POP3",
+      "d": "SMTP Submission"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q46",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 46,
+    "questionText": "UML の",
+    "choices": {
+      "a": "多くの立行処理を含むシステムの, オブジェクトの振る舞いが記述できる。",
+      "b": "オブジェクト和群がどのようにコラボレーションを行うか記述できる。",
+      "c": "クラスの仕様と. クラスの間の静的な関係が記述できる。",
+      "d": "システムのコンポーネント間の物理的な関係が記述できる。"
+    },
+    "correctAnswer": "a",
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q47",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 47,
+    "questionText": "次の流れ図において, ①っつ②つ③つ⑧⑤つ②⑳つ③っ③④っつ②⑳っ⑯ の順に実行させるために, ①において m とnに与えるべき初期値a。とbの関係はど れか。ここで, a, b はともに正の整数とする。 ① mを34 nb ⑥ 69 mの値を印字 me (mーn) ne (nmーm)",
+    "choices": {
+      "a": "a=2b",
+      "b": "2a=b",
+      "c": "2a=3b",
+      "d": "3a=2b"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q49",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 49,
+    "questionText": "",
+    "choices": {
+      "a": "コミュニケーション, シンプル, フィードバック, 勇気, 尊重の五つの価値を 基礎とし, テスト駆動型開発, ペアプログラミング, リファクタリングなどのプ ラクティスを推奨する。",
+      "b": "推測 (プロジェクト立上げ, 適応的サイクル計画), 協調 (並行コンポーネント 開発), 学習 (品質レビュー, 最終QAプリリース) のライフサイクルをもつ。",
+      "c": "プロダクトオーナなどの役割, スプリントレビューなどのイベント, プロダク トバックログなどの作成物, 及びルールから成るソフトウェア開発のフレームワ ークみである。",
+      "d": "モデルの全体像を作成した上で, 優先度を付けた詳細なフィーチャリストを作 成し, フィーチャを単位として計画し, フィーチャ単位に設計と構築を繰り返す。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q59",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 59,
+    "questionText": "日本において特許A を取得した特許権者から, 実施許諾を受けることが必要にな るのはどれか。",
+    "choices": {
+      "a": "出願日から 25 年を超えた特許A と同じ技術を新たに事業化する場合",
+      "b": "特許Aの出願日よりも前から特許A と同じ技術を独自に開発して, 特許Aの出 顧日に日本国内でその技術を用いた製品を製造し, 市場で販売していたことが証 明できる場合",
+      "c": "特許A を家庭内で個人的に利用するだけの場合",
+      "d": "日本国内で製造し, 米国に輸出する製品に特許A を利用する場合"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q51",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 51,
+    "questionText": "PMBOK ガイド 第6 版によれば, プロジェクト・スコープ記述書に記述する項目 価どれか。",
+    "choices": {
+      "a": "WBS",
+      "b": "コスト見積額",
+      "c": "ステークホルダー分類",
+      "d": "プロジェクトからの除外事項"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q54",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 54,
+    "questionText": "PMBOK ガイド 第6 版によれば, 較威と好機の, どちらに対しても採用されるリ スク対応戦略として, 適切なものはどれか。",
+    "choices": {
+      "a": "回避",
+      "b": "共有",
+      "c": "受容",
+      "d": "転嫁"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q57",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 57,
+    "questionText": "サービスマネジメントの容量・能力管理における, オンラインシステムの容量・ 能力の利用の監視についての注意事項のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "SLA の目標値を監視しきい値に設定し, しきい値を超過した場合には対策を講 ずる。",
+      "b": "応答時間や CPU 使用率などの複数の測定項目を定常的に監視する。",
+      "c": "オンライン時間帯に性能を測定することはサービスレベルの低下につながるの で, 測定はオフライン時間帯に行う。",
+      "d": "容量・能力及びパフォーマンスに関するインシデントを記録する。 間58 システム監査基準 (平成 30 年) におけるウォークスルー法の説明として, 最も適 切なものはどれか。 ア あらかじめシステム監査人が準備したテスト用データを監査対象プログラムで 処理し, 期待した結果が出力されるかどうかを確かめる。 イ 監査対象の実態を確かめるために, システム監査人が, 直接, 関係者に口頭で 問い合わせ, 回答を入手する。 ウ 監査対象の状況に関する監査証拠を入手するために, システム監査人が, 関連 する資料及び文書類を入手し, 内容を点検する。 エ データの生成から入力, 処理, 出力, 活用までのプロセス, 及び組み込まれて いるコントロールを, システム監査人が, 書面上で, 又は実際に追跡する。 ー 31 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q59",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 59,
+    "questionText": "システム監表のフォロー",
+    "choices": {
+      "a": "遅れの原因に応じた只体的な対策の実施を, 監査対象部門の責任者に指示する。",
+      "b": "遅れの原因を確かめるために, 監査対象部門に対策の内容や実施状況を確認す る。",
+      "c": "遅れを取り戻すために, 監査対象部門の改善活動に参加する。",
+      "d": "遅れを取り戻すための監査対象部門への要員の追加を, 人事部長に要求する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q69",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 69,
+    "questionText": "監査証拠の入手と評価に関する記述のうち, システム監査基準 (平成 30 年) に照 らして, 適切でないものはどれか。",
+    "choices": {
+      "a": "アジャ",
+      "b": "外部委託業務実施拠点に対する現地調査が必要と考えたとき, 委託先から入手 した第三者の保証報告書に依拠できると判断すれば, 現地調査を省略できる。",
+      "c": "十分かつ適切な監査証拠を入手するための本調査の前に, 監査対象の実態を把 握するための予備調査を実施する。",
+      "d": "一つの監査目的に対して, 通常は, 複数の監査手続を組み合わせて監査を実施 する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q61",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 61,
+    "questionText": "情報戦略の投資効果を評価するとき, 利益額を分子に, 投資額を分母にして算出 するものはどれか。",
+    "choices": {
+      "a": "EVA",
+      "b": "TIRR",
+      "c": "NPV",
+      "d": "ROI"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q63",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 63,
+    "questionText": "SOA の説明はどれか。",
+    "choices": {
+      "a": "会計, 人事, 製造, 購買, 在庫管理, 販売などの企業の業務プロセスを一元管 理することによって, 業務の効率化や経営資源の全体最適を図る手法",
+      "b": "企業の業務プロセス, システム化要求などのニーズと, ソフト",
+      "c": "業務プロセスの間題点を洗い出して, 目標設定, 実行, チェック, 修正行動の マネジメントサイクルを適用し, 継続的な改善を図る手法",
+      "d": "利用者の視点から業務システムの機能を幾つかの独立した部品に分けることに よって, 業務プロセスとの対応付けや他ソフトウェアとの連携を容易にする手法 ee es"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q67",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 67,
+    "questionText": "企業の事業活動を機能ごとに主活動と支援活動に分け, 企業が顧客に提供する製 品やサービスの利益が, どの活動で生み出されているかを分析する手法はどれか。",
+    "choices": {
+      "a": "3C 分析",
+      "b": "SWOT 分析",
+      "c": "バリューチェーン分析",
+      "d": "ファイブフォース分析"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q68",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 68,
+    "questionText": "現在の動向から未来を予測したり, システム分析に使用したりする手法であり, 専門的知識や経験を有する複数の人に",
+    "choices": {
+      "a": "因果関係分析法",
+      "b": "クロスセクション法",
+      "c": "時系列回帰分析法",
+      "d": "デルファイ法"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q73",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 73,
+    "questionText": "EDI を実施するための情報表現規約で規定されるべきものはどれか。",
+    "choices": {
+      "a": "企業間の取引の契約内容",
+      "b": "システムの運用時間",
+      "c": "伝送制御手順",
+      "d": "メッセージの形式"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q75",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 75,
+    "questionText": "図は, 定量発注方式を運用する際の費用と発注量の関係を示したものである。図 中の③を表しているものはどれか。ここで, 1 回当たりの発注量を Q, 1 回当たりの 発注費用を C, 1 単位当たりの年間保管費用を HH, 年間需要量を R とする。また, 選択肢",
+    "choices": {
+      "a": "経済的発注基ニ=ニー",
+      "b": "総費用=RxH+エxc H 2 Q",
+      "c": "年間発注費用ニニ XC",
+      "d": "平均年間保管費用=さ xH"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q76",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 76,
+    "questionText": "複雑な要因の絡む問題について, その因果関係を明らかにすることによって, 間 題の原因を究明する手法はどれか。",
+    "choices": {
+      "a": "PDPC法",
+      "b": "クラスタ分析法",
+      "c": "系統図法",
+      "d": "連関図法"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q77",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 77,
+    "questionText": "資料は今年度の損益実績である。翌年度の計画では, 営業利益を 30 百万円にした い。翌年度の売上高は何百万円を計画すべきか。ここで, 翌年度の固定費, 変動費 率は今年度と変わらないものとする。 (資料 単位 百万円 ぐ今年度の損益実績> 売上高 500 材料費 (変動費) 200 外注費 (変動費) 100 製造固定費 _100_ 粗利益 100 販売固定費 に:電 。 営業利益 _ 20_",
+    "choices": {
+      "a": "510",
+      "b": "525",
+      "c": "550 工 575 ー 40 一 間78 プロバイダタダ走任制限法が定める特定電気通信役務提供者が行う送信防止措置に関 する記述として, 適切なものはどれか。 ア 明らかに不当な権利侵害がなされている場合でも, 情報の発信者から事前に承 諾を得ていなければ, 特定電気通信役務提供者は送信防止措置の結果として生じ た損害の賠償責任を負う。 イ 権利侵害を防ぐための送信防止措置の結果, 情報の発信者に損害が生じた場合 でも, 一定の条件を満たしていれば, 特定電気通信役務提供者は賠償責任を負わ ない。 ウ 情報発信者に対して表現の自由を保障し, 通信の秘密を確保するため, 特定電 気通信役務提供者は, 裁判所の決定を受けなければ送信防止措置を実施すること ができない。",
+      "d": "特定電気通信による情報の流通によって権利を侵害された者が, 個人情報保護 委員会に苦情を申し立て, 被害が認定された際に特定電気通信役務提供者に命令 される措置である。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q79",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 79,
+    "questionText": "マイナンバー法の個人番号を取り扱う事業者が特定個人情報の提供をすることが できる場合はどれか。",
+    "choices": {
+      "a": "A 社からグループ企業である B 社に転籍した従業員の特定個人情報について, B 社での給与所得の源泉徴収票の提出目的で, A 社が B 社から提出を求められた 場合",
+      "b": "A 社の従業員が B 社に出向した際に, A 社の従業員の業務成績を引き継ぐため に, 個人番号を業務成績に付加して提出するように, A 社が B 社から求められた 場合",
+      "c": "事業者が, 営業活動情報を管理するシステムを導入する際に, 営業担当者のマ スタ情報として使用する目的で, システムを導入するベンダから提出を求められ た場合",
+      "d": "事業者が, 個人情報保護委員会による特定個人情報の取扱いに関する立入検査 を実施された際, 同委員会から資料の提出を求められた場合"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R02_秋期_Q80",
+    "examYear": "R02",
+    "examSeason": "秋期",
+    "questionNumber": 80,
+    "questionText": "A社はB社に対して業務システムの開発を委託し, A 社と B 社は請負契約を結ん でいる。作業の実態から, 偽装請負とされる事象はどれか。",
+    "choices": {
+      "a": "A 社の従業員が, B 社を作業場所として, A 社の責任者の指揮命令に従ってシ ステムの検証を行っている。",
+      "b": "A 社の従業員が, B 社を作業場所として, B 社の責任者の指揮命令に従ってシ ステムの検証を行っている。",
+      "c": "B 社の従業員が, A 社を作業場所として, A 社の責任者の指揮命令に従って設 | 計書を作成している。",
+      "d": "B社の従業員が, A 社を作業場所として, B 社の資任者の指揮命令に従って設 計書を作成している。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]

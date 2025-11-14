@@ -1,0 +1,848 @@
+[
+  {
+    "questionId": "R01_春期_Q80",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 80,
+    "questionText": "選択方法 全問必須 5. 答案用紙の記入に当たっては, 次の指示に従ってください。 (1) 答案用紙は光学式読取り装置で読み取った上で採点しますので, B 又は HB の 黒鉛筆で答案用紙のマークの記入方法のとおりマークしてください。マークの濃 度がうすいなど, マークの記入方法のとおり正しくマークされていない場合は 読み取れないことがあります。 特にシャープペンシルを使用する際には, マーク の濃度に十分ご注意ください。訂正の場合は, あとが残らないように消しゴムで きれいに消し, 消しくずを残さないでください。 ②⑫) 受験番号欄に受験番号を, 生年月日欄に受験票の生年月日を記入及びマークし てください。 答案用紙のマークの記入方法のとおり記入及びマークされていない 場合は, 採点されないことがあります。 生年月日欄については, 受験票の生年月 日を訂正した場合でも, 訂正前の生年月日を記入及びマークしてください。 (3) 解答は, 次の例題にならって, 解答欄に一つだけマークしてください。 答案用 | 紙のマークの記入方法のとおりマークされていない場合は, 採点されません。 [例題] 春の情報処理技術者試験が実施される月はどれか。 ず 交 イ 3 ウ 4 エ 5 正しい答えは“ウ 4\" ですから, 次のようにマークしてください。 例題 | 〈⑦の(イ) 位 で) 注意事項は問題冊子の裏表紙に続きます。 こちら側から裏返して, 必ず読んでください。 なam 1 me 問題文中で共通に使用される表記ルール 各間題文中に注記がない限り, 次の表記ルールが適用されているものとする。 (論理回路) EEEっEE\" EEビーンコ や jewew 還っ5還っ 加西 還還5っCE 部に示されるo印は, 論理状 | ト 態の反転又は否定を表す。 ーッー 間1 0以上255 以下の整数ヵ に対して, _ 」十1 (0SSzぐ255) GA02 リロロ (み三255) と定義むする。next ⑰)と等しい式はどれか。 ここで, x ANDy及びx ORyは, それ ぞれ* とyを 2 進数表現にして, 桁ごとの論理積及び論理和をとったものとする。",
+    "choices": {
+      "a": "⑰十1) AND 255",
+      "b": "3",
+      "c": "4",
+      "d": "5 正しい答えは“ウ 4\" ですから, 次のようにマークしてください。 例題 | 〈⑦の(イ) 位 で) 注意事項は問題冊子の裏表紙に続きます。 こちら側から裏返して, 必ず読んでください。 なam 1 me"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q02",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 2,
+    "questionText": "桁落ちによる誤差の説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "値がほぼ等しい二つの数値の差を求めたとき, 有効桁数が減ることによって発 生する誤差",
+      "b": "指定された有効桁数で演算結果を表すために, 切捨て, 切上げ, 四捨五入など で下位の桁を削除することによって発生する誤差",
+      "c": "絶対値が非常に大きな数値と小さな数値の加算や減算を行ったとき, 小さい数 値が計算結果に反映されないことによって発生する誤差",
+      "d": "無限級数で表される数値の計算処理を有限項で打ち切ったことによって発生す る誤差 | oe 3 mee"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q03",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 3,
+    "questionText": "AIにおけるディープラーニングに関する記述として, 最も適切なものはどれか。",
+    "choices": {
+      "a": "あるデータから結果を求める処理を, 人間の脳神経回路のように多層の処理を 重ねることによって, 複雑な判断をできるようにする。",
+      "b": "大量のデータからまだ知られていない新たな規則や仮説を発見するために, 想 定値から大きく外れている例外事項を取り除きながら分析を繰り返す手法である。",
+      "c": "多様なデータや大量のデータに対して, 三段論法, 統計的手法やパターン認識 手法を組み合わせることによって, 高度なデータ分析を行う手法である。",
+      "d": "知識がルールに従って表現されており, 演旨手法を利用した推論こよって有意 な結論を導く手法である。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q04",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 4,
+    "questionText": "家庭用ゲーム機に採用され, 自動車の先端運転支援システムにも使われる距離画 像センサの一つである, TOF (Time of Fiight) 方式のセンサの説明として, 適切な ものはどれか。",
+    "choices": {
+      "a": "光源から射出されたレーザなどの光が, 対象物に反射してセンサに届くまでの 時間を利用して距離を測定する。",
+      "b": "ステレオカメラによって, 三角測量の原理を利用して距離を測定する。",
+      "c": "単眼カメラによって, 道路の幅や車線は無限遠の地平線で一点に収束するとい う遠近法の原理を利用して距離を測定する。",
+      "d": "複数の衛星からの電波を受け取り, 電波に含まれる情報から発信と受信の時刻 差を求め, 電波の伝描速度をかけることによって, 各衛星との距離を割り出し, それを基に線度及び経度を特定する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q05",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 5,
+    "questionText": "要求に応じて可変量のメモリを割り当てるメモリ管理方式がある。要求量以上の 大きさをもつ空き領域のうちで最小のものを割り当てる最適適合 (best-ft)",
+    "choices": {
+      "a": "空き領域のアドレスをキーとする 2 分探索木",
+      "b": "空き領域の大きさが小さい順の片方向連結リスト",
+      "c": "空き領域の大きさをキーとする 2 分探索木",
+      "d": "アドレスに対応したビットマップ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q06",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 6,
+    "questionText": "次の手順はシェルソートによる整列を示している。データ列 7, 2, 8, 3, 1, 9, 4, 5, 6 を手順 (1) ~ (4④ に従って整列するとき, 手順 (3③ を何回繰り返して完了す るか。ここで, [ ] は小数点以下を切り捨てた結果を表す。 〔手順] ①) \"婦[データ数3]” とする。 (2) データ列を, 互いに 万 要素分だけ離れた要素の集まりから成る部分列とし, そ れぞれの部分列を, 挿入法を用いて整列する。 (3) “刀ご[万3]1\" とする。 (4) 万が0 であればデータ列の整列は完了し, 0 でなければ (②) に戻る。 デ 須 イ 3 ウ 4 エエ 5 7 5 こう 間7 JavaScript の言語仕様のうち, オブジェクトの表記法などの一部の仕様を基にして 規定したものであって, “名前と値の組みの集まり\" と “値の順序付きリスト” の二 つの構造に基づいてオブジェクトを表現する, データ記述の仕様はどれか。",
+    "choices": {
+      "a": "DOM",
+      "b": "3",
+      "c": "4",
+      "d": "5 7 5 こう"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q08",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 8,
+    "questionText": "スーパスカラの説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "一つのチップ内に複数のプロセッサコアを実装し, 複数のスレッドを並列に実",
+      "b": "一つのプロセッサコアで複数のスレッドを切り替えて並列に実行する。",
+      "c": "一つの命令で, 複数の異なるデータに対する演算を, 複数の演算器を用いて並 列に実行する。",
+      "d": "並列実行可能な複数の命令を, 複数の演算器に振り分けることによって並列に 実行する。 ーー 6 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q19",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 19,
+    "questionText": "バス幅が 16 ビット, メモリサイクルタイムが 80 ナノ秒で連続して動作できるメ モリがある。このメモリのデータ転送速度は何M バイトグ秒か。ここで, M は 106 を表す。",
+    "choices": {
+      "a": "12.5",
+      "b": "25",
+      "c": "160",
+      "d": "200 7 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q12",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 12,
+    "questionText": "Web サーバ,",
+    "choices": {
+      "a": "①, ③, @",
+      "b": "②, ①, ③",
+      "c": "③, ①, ⑫⑳",
+      "d": "③, ②, ① ーー 8 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q14",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 14,
+    "questionText": "キャッシュサーバを利用した検索処理の平均応答時間は, キャッシュサーバでヒ ットした場合には 0.2 秒, ヒットしない場合には 2.2 秒である。現在の平均検索応答 時間は, 1.0 秒である。3 年後のキャッシュサーバのヒット率は, 検索量の増加によ って現状の半分になると予測されている。3 年後の平均検索応答時間は何秒か。 こ こで, その他のオーバヘッドは考慮しない。",
+    "choices": {
+      "a": "1.1",
+      "b": "1.3",
+      "c": "1.6",
+      "d": "1.9"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q15",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 15,
+    "questionText": "あるクライ",
+    "choices": {
+      "a": "50",
+      "b": "100",
+      "c": "200",
+      "d": "400 デーつ 9 補"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q17",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 17,
+    "questionText": "プログラムの実行時に利用される記憶領域にスタック領域とヒープ領域がある。 それらの領域に関する記述のうち, 適切がものはどれか。",
+    "choices": {
+      "a": "サブルーチンからの戻り番地の退避にはスタック領域が使用され, 割当てと解 放の順序に関連がないデータの格納にはヒープ領域が使用される。",
+      "b": "スタック領域には未使用領域が存在するが, ヒープ領域には未使用領域は存在 しない。",
+      "c": "ヒープ領域はスタック領域の予備領域であり, スタック領域が一杯になった場 合にヒープ領域が動的に使用される。",
+      "d": "ヒーグプ領域も構造的にはスタックと同じプッシュとポップの操作によって, デ ータの格納と取出しを行う。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q18",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 18,
+    "questionText": "二つのタスクが共用する二つの資源を排他的に使用するとき, デッドロックが発 生するおそれがある。このデッドロックの発生を防ぐ方法はどれか。",
+    "choices": {
+      "a": "一方のタスクの優先度を高くする。",
+      "b": "資源獲得の順序を両方のタスクで同じにする。",
+      "c": "資源獲得の順序を両方のタスクで逆にする。",
+      "d": "両方のタスクの優先度を同じにする。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q22",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 22,
+    "questionText": "音声を標本化周波数 10 kHz, 量子化ビット数 16 ビットで 4 秒間サンプリングし て音声データを取得した。この音声データを, 圧縮率 1プ4 の ADPCM を用いて圧縮 した場合のデータ量は何 k バイトか。ここで, 1k バイトは1.000 バイトとする。",
+    "choices": {
+      "a": "10",
+      "b": "20",
+      "c": "80",
+      "d": "160"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q25",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 25,
+    "questionText": "コンピュータグラフィックスにおける, レンダリングに関する記述として, 適切 なものはどれか。",
+    "choices": {
+      "a": "異なる色のピクセルを混ぜて配置することによって, 中間色を表現すること",
+      "b": "複数の静止画を 1 枚ずつ連続表示することによって, 動画を作ること",
+      "c": "物体の表面に陰影を付けたり, 光を反射させたりして, 画像を作ること",
+      "d": "物体をワイヤフレーム, ポリゴンなどを用いて, モデル化すること"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q26",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 26,
+    "questionText": "データベースを記録媒体にどのように格納するかを記述したものはどれか。",
+    "choices": {
+      "a": "概念スキーマ",
+      "b": "外部スキーマ",
+      "c": "サブスキーマ",
+      "d": "内部スキーマ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q27",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 27,
+    "questionText": "RDBMS において, 特定の利用者だけに表を更新する権限を与える方法として, 適切なかものはどれか。",
+    "choices": {
+      "a": "CONNECT 文で接続を許可する。",
+      "b": "CREATE ASSERTION 文で表明して制限する。",
+      "c": "CREATE TABLE 文の参照制約で制限する。",
+      "d": "GRANT 文で許可する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q28",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 28,
+    "questionText": "過去 3 年分の記録を保存している “試験結果\" 表から, 2018 年度の平均点数が 600 点以上となったクラスのクラス名と平均点数の一覧を取得する SQL 文はどれか。 ここで, 実線の下線は主キーを表す。 試験結果 (学生番号, 受験年月日, 点数, クラス名)",
+    "choices": {
+      "a": "SELECT クラス名, AVG(点数) FROM 試験結果 GROUP BY クラス名 HAVING AVG(点数) >= 699",
+      "b": "SELECT クラス名, AVG(点数) FROM 試験結果 WHERE 受験年月日 BETWEEN '2018-04-91′ AND '2019-93-31' GROUP BY クラス名 HAVING AVG(点数) >= 609",
+      "c": "SELECT クラス名, AVG(点数) FROM 試験結果 WHERE 受験年月日 BETWEEN '2918-94-91′ AND '2019-03-317 GROUP BY クラス名 HAVING 点数 >= 699",
+      "d": "SELECT クラス名, AVG(点数) FROM 試験結果 WHERE 点数 >= 690 GROUP BY クラス名 HAVING (MAX (受験年月日 ) BETWEEN '2018-04-91′ AND '2019-03-31' ) |"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q39",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 39,
+    "questionText": "トランザクションの ACID 特性のうち, 一貫性 (consistency) の説明はどれか。",
+    "choices": {
+      "a": "整合性の取れたデータベースに対して, トランザクション実行後も整合性が取 れている性質である。",
+      "b": "同時実行される複数のトランザクションは互いに和干渉しないという性質である。",
+      "c": "トランザクションは, 完全に実行が完了するか, 全く実行されなかったかの状 態しかとらない性質である。",
+      "d": "ひとたびコミットすれば, その後どのような障害が起こっても状態の変更が保 たれるという性質である。 ]"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q31",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 31,
+    "questionText": "プライベート IP",
+    "choices": {
+      "a": "IPVPN",
+      "b": "インターネット VPN",
+      "c": "広域イーサネット",
+      "d": "マルチホーミング"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q33",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 33,
+    "questionText": "図のような IP ネットワークの LAN 環境で, ホスト A からホスト B にパケットを 送信する。LAN 1 において, パケット内のイーサネットフレームの宛先と IP データ グラムの宛先の組合せとして, 適切ながものはどれか。ここで, 図中の MACz/IPみ は ホスト又はルータがもつインタフェースの MAC",
+    "choices": {
+      "a": "10.170.70.0",
+      "b": "10.170.70.16",
+      "c": "10.170.70.31",
+      "d": "10.170.70.255"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q35",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 35,
+    "questionText": "Web サーバを使ったシステムにおいて, インターネット経由で",
+    "choices": {
+      "a": "DMZ",
+      "b": "フォワードプロキシ",
+      "c": "プロキシ ARP",
+      "d": "リバースプロキシ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q36",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 36,
+    "questionText": "情報シセキュリティにおけるエクスプロイトコードの説明はどれか。",
+    "choices": {
+      "a": "同じセキュリティ機能をもつ製品に乗り換える場合に, CSV 形式など他の製品 に取り込むことができる形式でファ",
+      "b": "コンピュータに接続されたハードディスクなどの外部記憶装置や, その中に保 存されている暗号化されたファイルなどを閲覧, 管理するソフト",
+      "c": "セキュリティ製品を設計する際の早い段階から実際に動作する試作品を作成し, それに対する利用者の反応を見ながら徐々に完成に近づける開発手法",
+      "d": "ソフトウェアやハードウェアの脆弱性を検査するために作成されたプログラム"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q37",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 37,
+    "questionText": "リスクベース認証の特徴はどれか。",
+    "choices": {
+      "a": "いかなる環境からの認証の要求においても認証方法を変更せずに, 同一の手順 によって普段どおりにシステムが利用できる。",
+      "b": "ハード",
+      "c": "普段と異なる環境からのアクセスと判断した場合, 追加の本人認証をすること によって, 不正アクセスに対抗し安全性を高める。",
+      "d": "利用者が認証情報を忘れ, かつ, Web ブラウザに保存しているパスワード情報 も使用できない場合でも, 救済することによって, 利用者は普段どおりにシステ ムを利用できる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q49",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 49,
+    "questionText": "DNSSEC についての記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "DNS サーバへの問合せ時の送信元ポート番号をランダムに選択することによっ て, DNS 問合せへの不正な応答を防止する。",
+      "b": "DNS の再帰的な問合せの送信元として許可するクライアントを制限することに よって, DNS を悪用した DoS 攻撃を防止する。",
+      "c": "共通鍵暗号方式によるメッセージ認証を用いることによって, 正当な DNS サー バからの応答であることをクライアントが検証できる。",
+      "d": "公開鍵暗号方式によるディジタル署名を用いることによって, 正当な DNS サー バからの応答であることをクライアントが検証できる。 間41 マルウェア対策ソフトでのフォールスネガティブに該当するものはどれか。 ア マルウェアに感染していないファイルを, マルウェアに感染していないと判断 する。 イ マルウェアに感染していないファイルを, マルウェアに感染していると判断す る。 ウ マルウェアに感染しているファイルを, マルウェアに感染していないと判断す る。 エエ マルウェアに感染しているファイルを, マルウェアに感染していると判断する。 ー 21 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q43",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 43,
+    "questionText": "情報セキュリティにおけるサンドボックスの説明はどれか。",
+    "choices": {
+      "a": "0OS, DBMS, アプリケーションソフトウェア, ネットワーク機器など多様なソ フトウェアや機器が出力する大量のログデータを分析する。",
+      "b": "Web アプリケーションの入力フォームへの入力データに含まれる HTML タグ JavaScript, SQL 文などを他の文字列に置き換えることによって, 入力データ中に 含まれる悪意のあるプログラムの実行を防ぐ。",
+      "c": "Web サーバの前段に設置し, 不特定多数の PC から特定の Web サーバへのリク",
+      "d": "不正な動作をする可能性があるプログラムを特別な領域で動作させることによって, 他の領域に悪影響が及ぶのを防ぐ。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q44",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 44,
+    "questionText": "パケットフィルタリング型ファイ",
+    "choices": {
+      "a": "Webアプリケーションに渡される POST データ",
+      "b": "送信元と宛先の IP アドレスとポート番号",
+      "c": "送信元の MAC アドレス",
+      "d": "利用者のPC から送信された URL"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q45",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 45,
+    "questionText": "WAFの説明はどれか。",
+    "choices": {
+      "a": "Webアプリケーションへの攻撃を検知し, 阻止する。",
+      "b": "Web ブラ",
+      "c": "サーバの OS への不正なログインを監視する。",
+      "d": "ファイルへのマルウェア感染を監視し, 検出する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q46",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 46,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "機能を詳細化する過程で」 モジュールの独立性が高くなるようにプログラムを 分割していく。",
+      "b": "システムの開発後の仕様変更は, データ構造や手続の局所的な変更で対応可能 なので, 比較的容易に実現できる。",
+      "c": "対象業務領域のモデル化に当たって, 情報資源であるデータの構造に着目する。",
+      "d": "プログラムが最も効率よくアクセスできるようにデータ構造を設計する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q509",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 509,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "システム要求事項のテスト網苺性",
+      "b": "システム要求事項への追跡可能性",
+      "c": "取得ニーズとの一貫性",
+      "d": "使用されたテスト方法及び作業標準の適切性"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q51",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 51,
+    "questionText": "JIS Q 21500:2018 (プロジェクトマネジメントの手引) によれば, プロジェクトマ ネジメントの “実行のプロセス群\" の説明はどれか。",
+    "choices": {
+      "a": "プロジェクトの計画に照らしてプロジェクトパフォーマンスを監視し, 測定し, 管理するために使用する。",
+      "b": "プロジェクトフェーズ又はプロジェクトが完了したことを正式に確定するため に使用し, 必要に応じて考慮し, 実行するように得た教訓を提供するために使用 する。",
+      "c": "プロジェクトフェーズ又はプロジェクトを開始するために使用し, プロジェク トフェーズ又はプロジェクトの目標を定義し, プロジェクトマネージャがプロジ ェクト作業を進める許可を得るために使用する。",
+      "d": "プロジェクトマネジメントの活動を遂行し, プロジェクトの全体計画に従って プロジェクトの成果物の提示を支援するために使用する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q52",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 52,
+    "questionText": "ある組織では, プロジェクトのスケジュールとコストの管理に",
+    "choices": {
+      "a": "110",
+      "b": "120",
+      "c": "135",
+      "d": "150 ー 26 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q56",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 56,
+    "questionText": "次の処理条件で磁気ディスクに保存されているファイルを磁気テープにバック",
+    "choices": {
+      "a": "ップするとき, バックアップの運用に必要な磁気テープは最少で何本か。 【処理条件〕 (1) 毎月初日 (1 日) にフルバックアップを取る。フルバックアップは 1 本の磁気 テープに1 回分を記録する。 (2②) フルバックアップを取った翌日から次のフルバックアップを取るまでは, 毎日, 差分バックアップを取る。差分バックアップは, 差分バックアップ用としてフル バックアップとは別の磁気テープに追記録し, 1 本に 1 か月分を記録する。 (3③) 常に 6 か月前の同一日までのデータについて, 指定日の状態にファ",
+      "b": "13",
+      "c": "14 世 削 間57 システム開発委託先 (受託者) から委託元 (委託者) に納品される成果物に対す るユーザ受入テストの適切性を確かめるためのシステム監査の要点はどれか。 ア 委託者が作成したユーザ受入テスト計画書に従って, 受託者が成果物に対して ユーザ受入テストを実施していること イ 受託者が成果物と一緒にユーザ受入テスト計画書を納品していること ウ 受託者から納品された成果物に対して, 委託者が要件定義に基づきユーザ受入 テストを実施していること",
+      "d": "受託者から納品された成果物に対して, 監査人がユーザ受入テスト計画を集定 しでがるとと"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q58",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 58,
+    "questionText": "システム監査における “監査手続\" として, 最も適切なかものはどれか。",
+    "choices": {
+      "a": "監査計画の立案や監査業務の進捗管理を行うための手順",
+      "b": "監午結果を受けて, 監査報告書に監査人の結論や指摘事項を記述する手順",
+      "c": "監査項目について, 十分かつ適切な証拠を入手するための手順",
+      "d": "監査テーマに合わせて, 監査チームを編成する手順"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q59",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 59,
+    "questionText": "システム監査基準 (平成 30 年) に基づいて, 監査報告書に記載された指摘事項に 対応する際に, 不適切かものはどれか。",
+    "choices": {
+      "a": "監査対象部門が, 経営者の指摘事項に対するリスク受容を理由に改善を行わな いこととする。",
+      "b": "監査対象部門が, 自発的な取組によって指摘事項に対する改善に着手する。",
+      "c": "システム監査人が, 監査対象部門の改善計画を作成する。",
+      "d": "システム監査人が, 監査対象部門の改善実施状況を確認する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q69",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 69,
+    "questionText": "事務所の物理的セキュリティ対策について, JIS Q 27002:2014 (情報セキュリティ 管理策の実践のための規範) に基づいて情報セキュリティ監査を実施した。判明し た状況のうち, 監査人が監査報告書に指摘事項として記載すべきものはどれか。",
+    "choices": {
+      "a": "外部からの荷物の受渡しは, サーバ室などの情報処理施設にアクセスすること なく荷物の積降ろしができる場所で行っている。",
+      "b": "機密性の高い情報資産が置かれている部屋には, 入室許可を得た者が共通の暗 時 証番号を入力して入室している。",
+      "c": "機密性の高い情報資産が置かれる部屋は, 社員以外の者の目に触れる場所を避 けて設けている。",
+      "d": "取引先との打合せは, 社員が業務を行っている執務室から分離された場所であ って, かつ, 機密性の高い情報資産が置かれていない場所で行っている。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q61",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 61,
+    "questionText": "事業目標達成のためのプログラムマネジメントの考え方として, 適切かものはど れか。",
+    "choices": {
+      "a": "活動全体を複数のプロジェクトの結合体と捉え, 複数のプロジェクトの連携, 統合, 相互作用を通じて価値を高め, 組織全体の戦略の実現を図る。",
+      "b": "個々のプロジェクト管理を更に細分化することによって, プロジェクトに必要 な技術や確保すべき経営資源の明確化を図る。",
+      "c": "システムの開発に使用するプログラム言語や開発手法を早期に検討することに よって, 開発リスクを低減し, 投資効果の最大化を図る。",
+      "d": "リスクを最小化するように支援する専門組織を設けることによって, 組織全体 のプロジェクトマネジメントの能力と品質の向上を図る。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q62",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 62,
+    "questionText": "A 社は, ソリューションプロバイダから, 顧客に対するワントゥワンマーケティ ングを実現する統合的なソリューションの提案を受けた。この提案が該当するソリ ューションとして, 最も適切なものはどれか。",
+    "choices": {
+      "a": "CRMソリューション",
+      "b": "HRMソリューション",
+      "c": "SCMソリューション",
+      "d": "財務管理ソリューション"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q63",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 63,
+    "questionText": "ビッグデータを有効活用し, 事業価値を生み出す役割を担う専門人材であるデー タサイエンティストに求められるスキルセットを表の三つの領域と定義した。デー タサイエンス有力に該当する具体的なスキルはどれか。 データサイエンティストに求められるスキルセット nr 課題の背景を理解した上で, ビジネス課題を整理・分析 し, 解決するカ データサイエンスカ 人工知能や統計学などの情報科学に関する知識を用いて, 回 予測, 検定, 関係性の把握及びデータ加工・可視化するカカ eyジュユ",
+    "choices": {
+      "a": "扱うデータの規模や機密性を理解した上で, 分析システムをオンプレミスで構 築するか, クラウドサービスを利用して構築するかを判断し, 設計できる。",
+      "b": "事業モデル, バリューチェーンなどの特徴や事業の主たる課題を自力で構造的 に理解でき, 問題の大枠を整理できる。",
+      "c": "分散処理のフレームワークを用いて, 計算処理を複数サーバに分散させる並列 処理システムを設計できる。",
+      "d": "分析要件に応じ, 決定木分析, ニューラルネットワークなどのモデリング手法 の選択, モデルへのパラメタの設定, 分析結果の評価ができる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q65",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 65,
+    "questionText": "要件定義において, 利用者や外部システムと, 業務の機能を分離して表現するこ とによって, 利用者を含めた業務全体の範囲を明らかにするために使用される図は どれか。",
+    "choices": {
+      "a": "アクティビティ図",
+      "b": "オブジェクト図",
+      "c": "クラス図",
+      "d": "ベンダが提供するソフトウェアを, 利用料金を支払うことによって一定期間の 利用権を得て利用する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q67",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 67,
+    "questionText": "コ",
+    "choices": {
+      "a": "主な事業ドメ",
+      "b": "競合他社よりも効率性が高い生産システム",
+      "c": "参入を予定している事業分野の競合状況",
+      "d": "収益性が高い事業分野での市場シェア 間68 バランススコアカードの四つの視点とは, 財務, 学習と成長, 内部ビジネスプロ セスと, もう一つはどれか。 ア 上民バパナシレス イ 顧客 ウ 自社の強み エ 遵法"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q72",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 72,
+    "questionText": "PDM (Product Data Management) の目的はどれか。",
+    "choices": {
+      "a": "NC 工作機械, 自動搬送装置, 倉庫などを有機的に結合し, コンピュータで集中 管理することによって, 多品種少量生産に対応できる生産の自動化を実現する。",
+      "b": "図面・部品構成データ, 仕様書データなどの設計及び開発の段階で発生する情 報を一元管理することによって, 設計業務及び開発業務の効率を向上させる。",
+      "c": "製品の生産計画に基づいてその生産に必要な資材の所要量を展開し, これを基 準にして資材の需要とその発注時期を算出する。",
+      "d": "部品の供給から製品の販売までの一連のプロセスの情報をリアルタイムで交換 することによって, 在庫の削減とリードタイムの短縮を実現する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q73",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 73,
+    "questionText": "SEO の説明はどれか。",
+    "choices": {
+      "a": "EC サ",
+      "b": "Web ページに掲載した広告が契機となって商品が購入された場合, 売主から成 功報酬が得られる仕組み",
+      "c": "検索",
+      "d": "検索エンジンを運営する企業と契約し, 自社の商品・サービスと関連したキー ワードが検索に用いられた際に広告を表示する仕組み 間74 発生した故障について, 発生要因ごとの件数の記録を基に, 故障発生件数で上位 を占める主な要因を明確に表現するのに適している図法はどれか。 ア 特性要因図 イ パレート図 ウ マトリックス図 エ 連関図"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q75",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 75,
+    "questionText": "定量発注方式における経済的発注量を計算したところ, 600 個であった。 発注か ら納入までの調達期間は 5 日であり, 安全在庫量が 30 個である場合, この購買品目 の発注点は何個か。ここで, 1日の平均消費量は 50 個であるとする。",
+    "choices": {
+      "a": "220",
+      "b": "250",
+      "c": "280",
+      "d": "300"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q78",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 78,
+    "questionText": "個人情報のうち, 個人情報保護法における要配慮個人情報に該当するものはどれ か。 「",
+    "choices": {
+      "a": "個人情報の取得時に, 本人が取扱いの配慮を申告することによって設定される 情報",
+      "b": "個人に割り当てられた, 運転免許証. クレジットカードなどの番号",
+      "c": "生存する個人に関する, 個人を特定するために用いられる勤務先や住所などの 情報",
+      "d": "本人の病歴, 犯罪の経歴など不当な差別や不利益を生じさせるおそれのある情 報 ー 38 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q79",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 79,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "継続的な取引が行われているので, 支払条件, 支払期日などを記載した書面を あらかじめ交付し, 個々の発注書面にはその事項の記載を省略する。",
+      "b": "顧客が求める仕様が確定していなかったので, 発注の際に, 下請事業者に仕様 が未記載の書面を交付し, 仕様が確定した時点では, 内容を書面ではなく口頭で 伝えた。",
+      "c": "顧客の都合で仕様変更の必要が生じたので, 下請事業者と協議の上, 発生する 費用の増加分を下請代金に加算することによって仕様変更に応じてもらう。",
+      "d": "振込手数料を下請事業者が負担する旨を発注前に書面で合意したので, 親事業 者が負担した実費の範囲内で振込手数料を差し引いて下請代金を支払う。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R01_春期_Q89",
+    "examYear": "R01",
+    "examSeason": "春期",
+    "questionNumber": 89,
+    "questionText": "技術者倫理の観点から, 職務遂行において技術者が優先すべきこととして, 最も 適切なものはどれか。",
+    "choices": {
+      "a": "会社の利益",
+      "b": "技術者個人の名誉",
+      "c": "公衆の安全",
+      "d": "コストの低減"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "questionId": "SAMPLE_Q01",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 1,
+    "questionText": "10進数の25を2進数で表現したものはどれか。",
+    "choices": {
+      "a": "10011",
+      "b": "11001",
+      "c": "11011",
+      "d": "11101"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "基礎理論",
+    "difficulty": 15,
+    "explanation": "25を2進数に変換します。25 = 16 + 8 + 1 = 2^4 + 2^3 + 2^0 = 11001"
+  },
+  {
+    "questionId": "SAMPLE_Q02",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 2,
+    "questionText": "2進数の1101と1011の加算結果はどれか。",
+    "choices": {
+      "a": "10110",
+      "b": "11000",
+      "c": "11010",
+      "d": "11100"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "基礎理論",
+    "difficulty": 20,
+    "explanation": "1101 + 1011 = 11000です。桁上がりに注意して計算します。"
+  },
+  {
+    "questionId": "SAMPLE_Q03",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 3,
+    "questionText": "バブルソートのアルゴリズムにおいて、要素数nの配列を昇順に整列する場合の最悪時の比較回数はどれか。",
+    "choices": {
+      "a": "n",
+      "b": "n log n",
+      "c": "n(n-1)/2",
+      "d": "2^n"
+    },
+    "correctAnswer": "c",
+    "category": "テクノロジ",
+    "subcategory": "基礎理論",
+    "difficulty": 40,
+    "explanation": "バブルソートの最悪時の比較回数は n(n-1)/2 回です。時間計算量はO(n^2)となります。"
+  },
+  {
+    "questionId": "SAMPLE_Q04",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 4,
+    "questionText": "スタック構造のデータ構造において、最後に格納されたデータが最初に取り出される特性を何というか。",
+    "choices": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "LRU",
+      "d": "FCFS"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "基礎理論",
+    "difficulty": 10,
+    "explanation": "スタックはLIFO（Last In First Out）の特性を持ちます。最後に入れたデータが最初に取り出されます。"
+  },
+  {
+    "questionId": "SAMPLE_Q05",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 5,
+    "questionText": "16進数のABを10進数で表現したものはどれか。",
+    "choices": {
+      "a": "161",
+      "b": "171",
+      "c": "181",
+      "d": "191"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "基礎理論",
+    "difficulty": 15,
+    "explanation": "AB(16) = 10×16 + 11×1 = 160 + 11 = 171です。"
+  },
+  {
+    "questionId": "SAMPLE_Q06",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 6,
+    "questionText": "リレーショナルデータベースにおいて、主キーの役割として適切なものはどれか。",
+    "choices": {
+      "a": "テーブル内のすべてのレコードを一意に識別する",
+      "b": "テーブル間の結合を高速化する",
+      "c": "データの重複を許可する",
+      "d": "NULL値を格納できるようにする"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "データベース",
+    "difficulty": 15,
+    "explanation": "主キーは各レコードを一意に識別するための列または列の組み合わせです。NULL値は許可されません。"
+  },
+  {
+    "questionId": "SAMPLE_Q07",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 7,
+    "questionText": "SQLのSELECT文において、重複する行を除外して結果を取得するために使用するキーワードはどれか。",
+    "choices": {
+      "a": "UNIQUE",
+      "b": "DISTINCT",
+      "c": "SINGLE",
+      "d": "REMOVE"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "データベース",
+    "difficulty": 20,
+    "explanation": "DISTINCTキーワードを使用すると、重複する行を除外した結果を取得できます。"
+  },
+  {
+    "questionId": "SAMPLE_Q08",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 8,
+    "questionText": "第3正規形の条件として正しいものはどれか。",
+    "choices": {
+      "a": "すべての非キー属性が主キーに完全関数従属している",
+      "b": "すべての非キー属性が主キーに推移的関数従属していない",
+      "c": "すべての属性が原子値である",
+      "d": "複合キーが存在しない"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "データベース",
+    "difficulty": 45,
+    "explanation": "第3正規形は、第2正規形の条件を満たし、かつ非キー属性が主キーに推移的関数従属していない状態です。"
+  },
+  {
+    "questionId": "SAMPLE_Q09",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 9,
+    "questionText": "トランザクション処理のACID特性のうち、「原子性」が意味するものはどれか。",
+    "choices": {
+      "a": "トランザクションはすべて実行されるか、まったく実行されないかのどちらかである",
+      "b": "トランザクションの実行前後でデータベースの整合性が保たれる",
+      "c": "複数のトランザクションが同時に実行されても結果が一貫している",
+      "d": "コミットされたトランザクションの結果は永続的に保存される"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "データベース",
+    "difficulty": 30,
+    "explanation": "原子性（Atomicity）は、トランザクションが「すべて実行される」か「まったく実行されない」かのどちらかであることを保証します。"
+  },
+  {
+    "questionId": "SAMPLE_Q10",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 10,
+    "questionText": "外部キー制約の目的として適切なものはどれか。",
+    "choices": {
+      "a": "参照整合性を保つ",
+      "b": "検索速度を向上させる",
+      "c": "データの重複を防ぐ",
+      "d": "インデックスを自動生成する"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "データベース",
+    "difficulty": 25,
+    "explanation": "外部キー制約は、テーブル間の参照整合性を保つために使用されます。"
+  },
+  {
+    "questionId": "SAMPLE_Q11",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 11,
+    "questionText": "OSI参照モデルにおいて、ネットワーク層が担う役割はどれか。",
+    "choices": {
+      "a": "データの暗号化",
+      "b": "エンドツーエンドの信頼性のある通信",
+      "c": "パケットの経路選択とルーティング",
+      "d": "物理的な信号の伝送"
+    },
+    "correctAnswer": "c",
+    "category": "テクノロジ",
+    "subcategory": "ネットワーク",
+    "difficulty": 25,
+    "explanation": "ネットワーク層（第3層）は、パケットの経路選択（ルーティング）を担当します。"
+  },
+  {
+    "questionId": "SAMPLE_Q12",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 12,
+    "questionText": "TCPとUDPの違いとして適切なものはどれか。",
+    "choices": {
+      "a": "TCPはコネクション型、UDPはコネクションレス型である",
+      "b": "TCPはコネクションレス型、UDPはコネクション型である",
+      "c": "TCPは信頼性が低く、UDPは信頼性が高い",
+      "d": "TCPは暗号化され、UDPは平文で送信される"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "ネットワーク",
+    "difficulty": 20,
+    "explanation": "TCPはコネクション型で信頼性の高い通信、UDPはコネクションレス型で高速だが信頼性は保証されません。"
+  },
+  {
+    "questionId": "SAMPLE_Q13",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 13,
+    "questionText": "IPアドレス192.168.1.0/24のネットワークで使用できるホストアドレスの数はどれか。",
+    "choices": {
+      "a": "254",
+      "b": "255",
+      "c": "256",
+      "d": "512"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "ネットワーク",
+    "difficulty": 30,
+    "explanation": "/24は256個のアドレスを持ちますが、ネットワークアドレスとブロードキャストアドレスを除くため、使用可能なホストアドレスは254個です。"
+  },
+  {
+    "questionId": "SAMPLE_Q14",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 14,
+    "questionText": "HTTPSで使用される暗号化プロトコルはどれか。",
+    "choices": {
+      "a": "SSH",
+      "b": "TLS/SSL",
+      "c": "IPsec",
+      "d": "PPTP"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "ネットワーク",
+    "difficulty": 15,
+    "explanation": "HTTPSはTLS/SSL（Transport Layer Security/Secure Sockets Layer）を使用して通信を暗号化します。"
+  },
+  {
+    "questionId": "SAMPLE_Q15",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 15,
+    "questionText": "DNSの役割として適切なものはどれか。",
+    "choices": {
+      "a": "ドメイン名とIPアドレスを相互変換する",
+      "b": "メールの送受信を管理する",
+      "c": "Webページのコンテンツを配信する",
+      "d": "ネットワークの帯域を制御する"
+    },
+    "correctAnswer": "a",
+    "category": "テクノロジ",
+    "subcategory": "ネットワーク",
+    "difficulty": 10,
+    "explanation": "DNS（Domain Name System）は、ドメイン名とIPアドレスを相互に変換する名前解決サービスです。"
+  },
+  {
+    "questionId": "SAMPLE_Q16",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 16,
+    "questionText": "オブジェクト指向プログラミングにおいて、既存のクラスを基に新しいクラスを定義する機能を何というか。",
+    "choices": {
+      "a": "カプセル化",
+      "b": "継承",
+      "c": "ポリモーフィズム",
+      "d": "抽象化"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "ソフトウェア開発",
+    "difficulty": 15,
+    "explanation": "継承は、既存のクラス（スーパークラス）の属性やメソッドを引き継いで新しいクラス（サブクラス）を定義する機能です。"
+  },
+  {
+    "questionId": "SAMPLE_Q17",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 17,
+    "questionText": "プログラムのバグを発見・修正する作業を何というか。",
+    "choices": {
+      "a": "コンパイル",
+      "b": "デバッグ",
+      "c": "リファクタリング",
+      "d": "デプロイ"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "ソフトウェア開発",
+    "difficulty": 5,
+    "explanation": "デバッグは、プログラム中のバグ（誤り）を発見し、修正する作業のことです。"
+  },
+  {
+    "questionId": "SAMPLE_Q18",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 18,
+    "questionText": "ホワイトボックステストの特徴として適切なものはどれか。",
+    "choices": {
+      "a": "プログラムの内部構造を考慮せずにテストする",
+      "b": "プログラムの内部構造を考慮してテストする",
+      "c": "ユーザーの視点からテストする",
+      "d": "本番環境でテストする"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "ソフトウェア開発",
+    "difficulty": 20,
+    "explanation": "ホワイトボックステストは、プログラムの内部構造（コード）を考慮して行うテスト手法です。"
+  },
+  {
+    "questionId": "SAMPLE_Q19",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 19,
+    "questionText": "アジャイル開発の特徴として適切でないものはどれか。",
+    "choices": {
+      "a": "短いイテレーションで開発を進める",
+      "b": "顧客とのコミュニケーションを重視する",
+      "c": "変更に柔軟に対応する",
+      "d": "詳細な設計書を最初に完成させる"
+    },
+    "correctAnswer": "d",
+    "category": "テクノロジ",
+    "subcategory": "ソフトウェア開発",
+    "difficulty": 25,
+    "explanation": "アジャイル開発は、詳細な設計書よりも動くソフトウェアを重視し、変更に柔軟に対応する開発手法です。"
+  },
+  {
+    "questionId": "SAMPLE_Q20",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 20,
+    "questionText": "Gitにおいて、ローカルリポジトリの変更をリモートリポジトリに反映させるコマンドはどれか。",
+    "choices": {
+      "a": "git pull",
+      "b": "git push",
+      "c": "git commit",
+      "d": "git clone"
+    },
+    "correctAnswer": "b",
+    "category": "テクノロジ",
+    "subcategory": "ソフトウェア開発",
+    "difficulty": 15,
+    "explanation": "git pushコマンドは、ローカルリポジトリの変更をリモートリポジトリにアップロードするために使用します。"
+  },
+  {
+    "questionId": "SAMPLE_Q21",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 21,
+    "questionText": "プロジェクトマネジメントにおけるクリティカルパスとは何か。",
+    "choices": {
+      "a": "最もコストがかかる作業の経路",
+      "b": "最も重要な成果物を生み出す経路",
+      "c": "所要期間が最も長い作業の経路",
+      "d": "リスクが最も高い作業の経路"
+    },
+    "correctAnswer": "c",
+    "category": "マネジメント",
+    "subcategory": "プロジェクトマネジメント",
+    "difficulty": 30,
+    "explanation": "クリティカルパスは、プロジェクトの開始から終了までの所要期間が最も長い作業の経路です。この経路上の遅延はプロジェクト全体の遅延に直結します。"
+  },
+  {
+    "questionId": "SAMPLE_Q22",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 22,
+    "questionText": "PERT図の特徴として適切なものはどれか。",
+    "choices": {
+      "a": "作業間の依存関係を矢印で表現する",
+      "b": "縦軸に作業、横軸に時間を配置する",
+      "c": "作業の進捗状況を棒グラフで表現する",
+      "d": "組織の階層構造を表現する"
+    },
+    "correctAnswer": "a",
+    "category": "マネジメント",
+    "subcategory": "プロジェクトマネジメント",
+    "difficulty": 20,
+    "explanation": "PERT図（Program Evaluation and Review Technique）は、作業をノードで、作業間の依存関係を矢印で表現するネットワーク図です。"
+  },
+  {
+    "questionId": "SAMPLE_Q23",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 23,
+    "questionText": "WBS（Work Breakdown Structure）の目的として適切なものはどれか。",
+    "choices": {
+      "a": "プロジェクトの作業を階層的に分解する",
+      "b": "プロジェクトの予算を管理する",
+      "c": "プロジェクトのリスクを評価する",
+      "d": "プロジェクトの品質を保証する"
+    },
+    "correctAnswer": "a",
+    "category": "マネジメント",
+    "subcategory": "プロジェクトマネジメント",
+    "difficulty": 15,
+    "explanation": "WBSは、プロジェクトの成果物や作業を階層的に分解し、管理しやすい単位にする手法です。"
+  },
+  {
+    "questionId": "SAMPLE_Q24",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 24,
+    "questionText": "ガントチャートで表現される情報として適切でないものはどれか。",
+    "choices": {
+      "a": "各作業の開始日と終了日",
+      "b": "各作業の担当者",
+      "c": "作業間の依存関係の詳細",
+      "d": "プロジェクト全体の進捗状況"
+    },
+    "correctAnswer": "c",
+    "category": "マネジメント",
+    "subcategory": "プロジェクトマネジメント",
+    "difficulty": 25,
+    "explanation": "ガントチャートは作業のスケジュールを棒グラフで表現しますが、作業間の詳細な依存関係はPERT図の方が適しています。"
+  },
+  {
+    "questionId": "SAMPLE_Q25",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 25,
+    "questionText": "プロジェクトにおけるステークホルダとは誰を指すか。",
+    "choices": {
+      "a": "プロジェクトマネージャのみ",
+      "b": "プロジェクトメンバーのみ",
+      "c": "プロジェクトに利害関係を持つすべての人",
+      "d": "プロジェクトの顧客のみ"
+    },
+    "correctAnswer": "c",
+    "category": "マネジメント",
+    "subcategory": "プロジェクトマネジメント",
+    "difficulty": 10,
+    "explanation": "ステークホルダは、プロジェクトに利害関係を持つすべての個人や組織を指します。顧客、メンバー、スポンサー、エンドユーザーなどが含まれます。"
+  },
+  {
+    "questionId": "SAMPLE_Q26",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 26,
+    "questionText": "SWOT分析において、「S」が表すものはどれか。",
+    "choices": {
+      "a": "戦略（Strategy）",
+      "b": "強み（Strength）",
+      "c": "供給（Supply）",
+      "d": "販売（Sales）"
+    },
+    "correctAnswer": "b",
+    "category": "ストラテジ",
+    "subcategory": "経営戦略",
+    "difficulty": 10,
+    "explanation": "SWOTは、Strength（強み）、Weakness（弱み）、Opportunity（機会）、Threat（脅威）の頭文字です。"
+  },
+  {
+    "questionId": "SAMPLE_Q27",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 27,
+    "questionText": "ポーターの競争戦略において、3つの基本戦略に含まれないものはどれか。",
+    "choices": {
+      "a": "コストリーダーシップ戦略",
+      "b": "差別化戦略",
+      "c": "集中戦略",
+      "d": "多角化戦略"
+    },
+    "correctAnswer": "d",
+    "category": "ストラテジ",
+    "subcategory": "経営戦略",
+    "difficulty": 25,
+    "explanation": "ポーターの3つの基本戦略は、コストリーダーシップ戦略、差別化戦略、集中戦略です。多角化戦略は含まれません。"
+  },
+  {
+    "questionId": "SAMPLE_Q28",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 28,
+    "questionText": "損益分岐点の計算式として正しいものはどれか。",
+    "choices": {
+      "a": "固定費 ÷ （売上単価 - 変動費単価）",
+      "b": "固定費 × （売上単価 - 変動費単価）",
+      "c": "売上高 ÷ 固定費",
+      "d": "変動費 ÷ 売上単価"
+    },
+    "correctAnswer": "a",
+    "category": "ストラテジ",
+    "subcategory": "経営戦略",
+    "difficulty": 30,
+    "explanation": "損益分岐点売上数量 = 固定費 ÷ （売上単価 - 変動費単価）で計算されます。"
+  },
+  {
+    "questionId": "SAMPLE_Q29",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 29,
+    "questionText": "BSC（Balanced Scorecard）の4つの視点に含まれないものはどれか。",
+    "choices": {
+      "a": "財務の視点",
+      "b": "顧客の視点",
+      "c": "業務プロセスの視点",
+      "d": "競合の視点"
+    },
+    "correctAnswer": "d",
+    "category": "ストラテジ",
+    "subcategory": "経営戦略",
+    "difficulty": 35,
+    "explanation": "BSCの4つの視点は、財務、顧客、業務プロセス、学習と成長です。競合の視点は含まれません。"
+  },
+  {
+    "questionId": "SAMPLE_Q30",
+    "examYear": "SAMPLE",
+    "examSeason": "サンプル",
+    "questionNumber": 30,
+    "questionText": "ROI（Return On Investment）の計算式として正しいものはどれか。",
+    "choices": {
+      "a": "利益 ÷ 投資額 × 100",
+      "b": "売上高 ÷ 投資額 × 100",
+      "c": "投資額 ÷ 利益 × 100",
+      "d": "利益 × 投資額 × 100"
+    },
+    "correctAnswer": "a",
+    "category": "ストラテジ",
+    "subcategory": "経営戦略",
+    "difficulty": 20,
+    "explanation": "ROI（投資利益率）= （利益 ÷ 投資額）× 100 で計算されます。投資に対するリターンの割合を示します。"
+  }
+]

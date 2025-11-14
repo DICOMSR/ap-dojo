@@ -1,0 +1,956 @@
+[
+  {
+    "questionId": "R05_春期_Q86",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 86,
+    "questionText": "選択方法 全問必須 5. 答案用紙の記入に当たっては, 次の指示に従ってください。 (1) 答案用紙は光学式読取り装置で読み取った上で採点しますので, B 又は HB の黒 鉛筆で答案用紙のマークの記入方法のとおりマークしてください。マークの濃度 がうすいなど, マークの記入方法のとおり正しくマークされていない場合は, 読 み取れないことがあります。 特にシャープペンシルを使用する際には, マークの濃 度に十分注意してください。 訂正の場合は, あとが残らないように消しゴムできれ いに消し, 消しくずを残さないでください。 (2) 受験番号欄に受験番号を, 生年月日欄に受験票の生年月日を記入及びマークし てください。 答案用紙のマークの記入方法のとおりマークされていない場合は, 採点されないことがあります。生年月日杉については, 受験票の生年月日を訂正し た場合でも, 訂正前の生年月日を記入及びマークしてください。 (3) 解答は, 次の例題にならって, 解答欄に一つだけマークしてください。和窟案用 紙のマークの記入方法のとおりマークされていないりい場合は, 採点されません。 [例題」 春期の情報処理技術者試験が実施される月はどれか。",
+    "choices": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5 正しい答えは “ウ 4\" ですから, 次のようにマークしてください。 注意事項は問題冊子の裏表紙に続きます。 こちら側から裏返して, 必ず読んでください。 有三 ] ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q01",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 1,
+    "questionText": "0以上255 以下の整数 n に対して, AE n十| (9ミn<255) の72ー] 6 (nニ255) と定義する。next(n) と等しい式はどれか。ここで, x AND y 及び x OR y は, それぞ れxとyを2 進数表現にして, 桁ごとの論理積及び論理和をとったものとする。",
+    "choices": {
+      "a": "(n二1) AND 255",
+      "b": "(n十1) AND 256",
+      "c": "(n十1) OR 255",
+      "d": "(n十1) OR 256"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q02",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 2,
+    "questionText": "平均が69, 標準偏差が 19 の正規分布を表すグラフはどれか。",
+    "choices": {
+      "a": "イ 69 79 55 69 65 ウ 正 19 66 59 60 ーー 3 ーー 間3 AIにおける機械学習で, 2 クラス分類モデルの評価方法として用いられる ROC 曲線 の説明として, 適切なかものはどれか。 ア 真陽性率と偽陽性率の関係を示す曲線である。",
+      "b": "69 79 55 69 65",
+      "c": "正 19 66 59 60 ーー 3 ーー 間3 AIにおける機械学習で, 2 クラス分類モデルの評価方法として用いられる ROC 曲線 の説明として, 適切なかものはどれか。 ア 真陽性率と偽陽性率の関係を示す曲線である。 イ 真陽性率と適合率の関係を示す曲線である。 ウ 正解率と適合率の関係を示す曲線である。",
+      "d": "適合率と偽陽性率の関係を示す曲線である。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q04",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 4,
+    "questionText": "ドップラー効果を応用したセンサーで測定できるものはどれか。",
+    "choices": {
+      "a": "血中酸素飽和度",
+      "b": "血糖値",
+      "c": "血流量",
+      "d": "体内水分量"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q05",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 5,
+    "questionText": "要求に応じて可変量のメモリを割り当てるメモリ管理方式がある。 要求量以上の大 きさをもつ空き領域のうちで最小のものを割り当てる最適適合 (best-fit)",
+    "choices": {
+      "a": "空き領域のアドレスをキーとする 2 分探索木",
+      "b": "空き領域の大きさが小さい順の片方向連結リスト",
+      "c": "空き領域の大きさをキーとする 2 分探索木",
+      "d": "アドレスに対応したビットマップ ー 4 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q09",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 9,
+    "questionText": "全ての命令が5ステージで完了するように設計された, パイプライン制御の CPU が ある。20 命令を実行するには何サイクル必要となるか。ここで, 全ての命令は途中 で停止することなく実行でき, パイプラインの各ステージは 1 サイクルで動作を完了 するものとする。",
+    "choices": {
+      "a": "29",
+      "b": "21",
+      "c": "24",
+      "d": "25"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q19",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 19,
+    "questionText": "キャッシュメモリへの書込み動作には, ライトスルー方式とライトバック方式があ る。 それぞれの特徴のうち, 適切なかものはどれか。",
+    "choices": {
+      "a": "ラ",
+      "b": "ライトスルー方式では, データをキャッシュメモリと主記憶の両方に同時に書き 込むので, 主記憶の内容は常にキャッシュメモリの内容と一致する。",
+      "c": "ライトバック方式では, データをキャッシュメモリと主記憶の両方に同時に書き 込むので, 速度が遅い。",
+      "d": "ライトバック方式では, 読出し時にキャッシュミスが発生してキャッシュメモリ の内容が追い出されるときに, 主記憶に書き戻す必要が生じることはない。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q01",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 1,
+    "questionText": "フラッシュメモリにおけるウェ",
+    "choices": {
+      "a": "各ブロックの書込み回数がなるべく均等になるように, 物理的な書込み位置を選 択する。",
+      "b": "記憶するセルの電子の量に応じて, 複数のビット情報を記録する。",
+      "c": "不良のブロックを検出し, 交換領域にある正常な別のブロックで置き換える。",
+      "d": "ブロック単位でデータを消去し, 新しいデータを書き込む。 =っ 6 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q15",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 15,
+    "questionText": "コンピュータシステムの信頼性を高める技術に関する記述として, 適切なものはど れか。",
+    "choices": {
+      "a": "フェールセーフは, 構成部品の信頼性を高めて, 故障が起きないようにする技術 である。",
+      "b": "フェールソフトは, ソフト",
+      "c": "フォールトアボイダンスは, 構成部品に故障が発生しても運用を継続できるよう にする技術である。",
+      "d": "フォールトトレランスは, システムを構成する重要部品を多重化して, 故障に備 える技術である。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q16",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 16,
+    "questionText": "3 台の装置XーZ を接続したシステム A, B の稼働率に関する記述のうち, 適切な ものはどれか。ここで, 3 台の装置の稼働率は, いずれも 0 より大きく 1 より小さい ものとし, 並列に接続されている部分は, どちらか一方が稼働していればよいものと する。 A B に rm",
+    "choices": {
+      "a": "各装置の稼働率の値によって, AとBの乏働率のどちらが高いかは変化する。",
+      "b": "常にAとBの稼働率は等しい。",
+      "c": "常にAの稼働率は B より高い。",
+      "d": "常にB の稼働率はA より高い。 トー 9 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q17",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 17,
+    "questionText": "仮想記憶システムにおいて, ページ置換え",
+    "choices": {
+      "a": "LRU アルゴリズムは, 使用後の経過時間が最長のページを置換対象とするページ 置換アルゴリズムである。",
+      "b": "アドレス変換をインデックス方式で行う場合は, 主記憶に存在する全ページ分の ページテーブルが必要になる。",
+      "c": "ページフォールトが発生した場合は, ガーベジコレクションが必要である。",
+      "d": "ページングが繰り返されるうちに多数の小さな空きメモリ領域が発生することを, フラグメンテーションという。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q23",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 23,
+    "questionText": "車の自動運転に使われるセンサーの一つであるLiDAR の説明として, 適切なものは どれか。",
+    "choices": {
+      "a": "超音波を送出し, その反射波を測定することによって, 対象物の有無の検知及び 対象物までの距離の計測を行う。",
+      "b": "道路の幅及び車線は無限遠の地平線で一点 (消失点) に収束する, という遠近法 の原理を利用して, 対象物までの距離を計測する。",
+      "c": "ミリ波帯の電磁波を送出し, その反射波を測定することによって, 対象物の有無 の検知及び対象物までの距離の計測を行う。",
+      "d": "レーザー光をパルス状に照射し, その反射光を測定することによって, 対象物の 方向, 距離及び形状を計測する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q24",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 24,
+    "questionText": "NFC (Near Field Communication) の説明として, 適切なものはどれか。",
+    "choices": {
+      "a": "静電容量式のタッチセンサーで, 位置情報を検出するために用いられる。",
+      "b": "接触式 I( カードの通信方法として利用される。",
+      "c": "通信距離は最大 19 m 程度である。",
+      "d": "ピアツーピアで通信する機能を備えている。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q27",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 27,
+    "questionText": "クライ",
+    "choices": {
+      "a": "アプリケーションからーつずつ SQL 文を送信する必要がなくなる。",
+      "b": "クライアント側のCALL 文によって実行される。",
+      "c": "サーバとクライアントの間での通信トラフィックを軽減することができる。",
+      "d": "データの変更を行うときに, あらかじめ DBMS に定義しておいた処理を自動的に 起動・実行するものである。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q28",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 28,
+    "questionText": "データベースシステムの操作の説明のうち, べき等 (jdempotent) な操作の説明は どれか。",
+    "choices": {
+      "a": "同一の操作を複数回実行した結果と, 一回しか実行しなかった結果が同一になる 操作",
+      "b": "トランザクション内の全ての処理が成功したか, 何も実行されなかったかのいず れかの結果にしかならない操作",
+      "c": "一つのノードへのレコードの挿入処理を, 他のノードでも実行する操作",
+      "d": "複数のトランザクションを同時に実行した結果と, 順番に実行した結果が同一に なる操作 em 16 ドー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q39",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 39,
+    "questionText": "図のような関係データベースの “注文” 表と “注文明細\" 表がある。 注文\" 表の 行を削除すると, 対応する “注文明細” 表の行が, 自動的に削除されるようにしたい。 参照制約定義の削除規則 (ON DELETE) に指定する語句はどれか。ここで, 図中の実 線の下線は主キーを, 破線の下線は外部キーを表す。 注文 注文明細",
+    "choices": {
+      "a": "CASCADE",
+      "b": "INTERSECT",
+      "c": "RESTRICT",
+      "d": "UNIQUE"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q31",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 31,
+    "questionText": "通信技術の一つである PLC の説明として, 適切かものはどれか。",
+    "choices": {
+      "a": "音声データを IP ネットワークで伝送する技術",
+      "b": "電力線を通信回線として利用する技術",
+      "c": "無線 LAN の標準規格である IEEE 892.11 シリーズの総称",
+      "d": "無線通信における暗号化技術"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q32",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 32,
+    "questionText": "1990M ビットン秒の LAN と 16 ビットング秒の LAN がある。ヘッダーを含めて 1, 250 バイトのパケットをN【N 個送付するときに, 199M ビットノ秒の LAN の送信時間が 1G ビットング秒のLAN より 9 ミリ秒多く掛かった。N は幾らか。ここで, いずれの LAN においても, パケットがの送信間隔 (パケットの送信が完了してから次のパケットを 送信開始するまでの時間) は 1 ミリ秒であり, パケット送信間隔も送信時間に含め る。",
+    "choices": {
+      "a": "19",
+      "b": "89",
+      "c": "1060",
+      "d": "8090"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q33",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 33,
+    "questionText": "1 個の TCP パケットをイーサネットに送出したとき, イーサネットフレームに含ま れる宛先情報の, 送出順序はどれか。",
+    "choices": {
+      "a": "宛先IP アドレス, 宛先MAC アドレス, 宛先ポート番号",
+      "b": "宛先IP アドレス, 宛先ポート番号, 宛先MAC アドレス",
+      "c": "宛先MAC アドレス, 宛先IP アドレス, 宛先ポート番号",
+      "d": "宛先MAC アドレス, 宛先ポート番号, 宛先IP アドレス"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q35",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 35,
+    "questionText": "モバイル通信サービスにおいて, 移動中のモバイル端末が通信相手との接続を維持 したまま, ある基地局経由から別の基地局経由の通信へ切り替えることを何と呼ぶか。",
+    "choices": {
+      "a": "デザリング",
+      "b": "細記際叶一\"一",
+      "c": "フォールバック",
+      "d": "ローミング"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q36",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 36,
+    "questionText": "ボットネットにおいて C&C サーバが担う役割はどれか。",
+    "choices": {
+      "a": "遠隔操作が可能なマルウェアに, 情報収集及び攻撃活動を指示する。",
+      "b": "攻撃の踏み台となった複数のサーバからの通信を制御して遮断する。",
+      "c": "電子商取引事業者などへの偽のデジタル証明書の発行を命令する。",
+      "d": "不正なWeb コンテンツのテキスト, 画像及びレイアウト情報を一元的に管理する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q38",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 38,
+    "questionText": "メッセージに RSA 方式のデジタル署名を付与して 2 者間で送受信する。そのときの デジタル署名の検証鍵と使用方法はどれか。",
+    "choices": {
+      "a": "受信者の公開鍵であり, 送信者がメッセージダ",
+      "b": "受信者の秘密鍵であり, 受信者がデジタル署名からメッセージダイジェストを取 り出す際に使用する。",
+      "c": "送信者の公開鍵であり, 受信者がデジタル署名からメッセージダイジェストを取 り出す際に使用する。",
+      "d": "送信者の秘密鍵であり, 送信者がメッセージダイジェストからデジタル署名を作 成する際に使用する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q39",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 39,
+    "questionText": "“政府情報システムのためのセキュリティ評価制度 (ISMAP)” の説明はどれか。",
+    "choices": {
+      "a": "個人情報の取扱いについて政府が求める保護措置を講じる体制を整備している事 業者などを評価して, 適合を示すマークを付与し, 個人情報を取り扱う政府情報シ ステムの運用について, 当該マークを付与された者への委託を認める制度",
+      "b": "個人データを海外に移転する際に, 移転先の国の政府が定めた情報システムのセ キュリティ基準を評価して, 日本が求めるセキュリティ水準が確保されている場合 には, 本人の同意なく移転できるとする制度",
+      "c": "政府が求めるセキュリティ要求を満たしているクラウドサービスをあらかじめ評 価, 登録することによって, 政府のクラウドサービス調達におけるセキュリティ水 準の確保を図る制度",
+      "d": "プライベートクラウドの情報セキュリティ全般に関するマネジメントシステムの 規格にパブリッククラウドサービスに特化した管理策を追加した国際規格を基準に して, 政府情報システムにおける情報セキュリティ管理体制を評価する制度"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q40",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 40,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "CCE (Common Configuration Enumeration)",
+      "b": "CVE (Common Vulnerabilities and Exposures)",
+      "c": "CVSS (Common Vulnerability Scoring System)",
+      "d": "CWE (Common Weakness Enumeration) 症 三"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q41",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 41,
+    "questionText": "TPM (Trusted Platform Module) に該当するものはどれか。",
+    "choices": {
+      "a": "PC などの機器に搭載され, 鍵生成, ハッシュ演算及び暗号処理を行うセキュリ ティチッププ",
+      "b": "受信した電子メールが正当な送信者から送信されたものであることを保証する送 信ドメイン認証技術",
+      "c": "ファイアウォール, 侵入検知, マルウェア対策など, 複数のセキュリティ機能を 統合したネットワーク監視装置",
+      "d": "ログデータを一元的に管理し, セキュリティイベントの監視者への通知及び相関 分析を行うシステム"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q44",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 44,
+    "questionText": "スパムメール対策として, サブミッションポート (ポート番号 587) を導入する目 的はどれか。",
+    "choices": {
+      "a": "DNS サーバにSPF レコードを問い合わせる。",
+      "b": "DNS サーバに登録されている公開鍵を使用して, デジタル署名を検証する。",
+      "c": "POP before SMTP を使用して, メール送信者を認証する。",
+      "d": "SMTP-AUTH を使用して, メール送信者を認証する。 = 23 ae"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q45",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 45,
+    "questionText": "次に示すような組織の業務環境において, 特定のIP セグメントのIP",
+    "choices": {
+      "a": "TIDS",
+      "b": "IPマスカレード",
+      "c": "スタティックVLAN",
+      "d": "認証VLAN"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q48",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 48,
+    "questionText": "スクラムでは, 一定の期間で区切ったスプリントを繰り返して開発を進める。各ス プリントで実施するスクラムイベントの順序のうち, 適切なかものはどれか。 [スクラムイベント]〕 1 : スプリントプラシンニシグ 2:スプリントレトロスペクティブ 3:スプリントレビュー 4 : デイリースクラム",
+    "choices": {
+      "a": "1っ4っ2っ3",
+      "b": "1っ4っ3っ2",
+      "c": "4っ1つこ2っ3",
+      "d": "4っつ1っ3っ2"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q49",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 49,
+    "questionText": "日本国特許庁において特許A を取得した特許権者から, 実施許諾を受けることが必 要になる場合はどれか。",
+    "choices": {
+      "a": "特許Aと同じ技術を家庭内で個人的に利用するだけの場合",
+      "b": "特許Aと同じ技術を利用して日本国内で製品を製造し, その全てを日本国外に輸 出する場合",
+      "c": "特許Aの出願日から 25 年を越えた後に, 特許A と同じ技術を新たに事業化する 場合",
+      "d": "特許Aの出願日より前に特許A と同じ技術を独自に開発し, 特許A の出願日に日 本国内でその技術を用いた製品を製造販売していたことが証明できる場合"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q59",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 59,
+    "questionText": "サーバプロビジョニングツールを使用する目的として, 適切なものはどれか。",
+    "choices": {
+      "a": "サーバ上のサービスが動作しているかどうかを, 他のシステムからリモートで監 視する。",
+      "b": "サーバにインストールされているソフト",
+      "c": "サーバを監視して, システムやアプリケーションのパフォーマンスを管理する。",
+      "d": "システム構成をあらかじめ記述しておくことによって, サーバを自動的に構成す る。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q51",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 51,
+    "questionText": "プロジェクトマネジメントにおける “プロジェクト憲章\"の説明はどれか。",
+    "choices": {
+      "a": "プロジェクトの実行, 監視, 管理の方法を規定するために, スケジュール, リス クなどに関するマネジメントの役割や責任などを記した文書",
+      "b": "プロジェクトのスコープを定義むするために, プロジェクトの目標, 成果物, 要求 事項及び境界を記した文書",
+      "c": "プロジェクトの目標を達成し, 必要な成果物を作成するために, プロジェクトで 実行する作業を階層構造で記した文書",
+      "d": "プロジェクトを正式に認可するために, ビジネスニーズ, 目標, 成果物, プロジ ェクトマネージャ, 及びプロジェクトマネージャの責任・権限を記した文書"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q52",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 52,
+    "questionText": "クリティカルチェーン法に基づいてスケジュールネットワーク上にバッファを設け る。クリティカルチェーン上にない",
+    "choices": {
+      "a": "合流バッファ",
+      "b": "資源バッファ",
+      "c": "フレームバッファ",
+      "d": "プロジェクトバッファ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q53",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 53,
+    "questionText": "過去のプロジェクトの開発実績に基づいて構築した作業配分モデルがある。システ ム要件定義からシステム内部設計までをモデルどおりに進めて 228 日で完了し, プロ グラム開発を開始した。 現在, 209 本のプログラムのうち 190 本のプログラムの開発 を完了し, 残りの 100 本は未着手の状況である。プログラム開発以降もモデルどおり に進捗すると仮定するとき, プロジェクトの完了まで, あと何日掛かるか。ここで, プログラムの開発に掛かる工数及び期間は, 全てのプログラムで同一であるものとす る。 〔作業配分モデル〕 システム システム システム | プログラム | システかな システム sg | sg | wm | vm | we | wm | wm MM | ss | wa | em | mm | mm | wm",
+    "choices": {
+      "a": "149",
+      "b": "159",
+      "c": "161",
+      "d": "172"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q54",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 54,
+    "questionText": "プロジェクトのリスクマネジメントにおける, リスクの特定に使用する技法の一つ であるデルファイ法の説明はどれか。",
+    "choices": {
+      "a": "確率分布を使用したシミュレーションを行う。",
+      "b": "過去の情報や知識を基にして, あらかじめ想定されるリスクをチェックリストに まとめておき, チェックリストと照らし合わせることによってリスクを識別する。",
+      "c": "何人かが集まって, 他人のアイディアを批判することなく, 自由に多くのアイデ ィアを出し合う。",
+      "d": "複数の専門家から得られた見解を要約して再配布し, 再度見解を求めることを何 度か繰り返して収束させる。 ーー時 ー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q56",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 56,
+    "questionText": "JIS Q 20009-1:2929 (サービスマネジメントシステム要求事項) によれば, 組織は, サービスレベル目標に照らしたパフォーマンスを監視し, レビューし, 顧客に報告し なければならない。レビューをいっつ行うかについて, この規格はどのように規定して いるか。",
+    "choices": {
+      "a": "SLA に大きな変更があったときに実施する。",
+      "b": "あらかじめ定めた間隔で実施する。",
+      "c": "間隔を定めず, 必要に応じて実施する。",
+      "d": "サービス目標の未達成が続いたときに実施する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q58",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 58,
+    "questionText": "システム監査基準 (平成 39 年) における予備調査についての記述として, 適切な ものはどれか。",
+    "choices": {
+      "a": "監査対象の実態を把握するために, 必ず現地に赴いて実施する。",
+      "b": "監査対象部門の事務手続やマニュアルなどを通じて, 業務内容, 業務分掌の体制 などを把握する。 1",
+      "c": "監査の結論を裏付けるために, 十分な監査証拠を入手する。",
+      "d": "調査の範囲は, 監査対象部門だけに限定する。 1"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q59",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 59,
+    "questionText": "システム監査基準 (平成 30 年) における監査手続の実施に際して利用する技法に 関する記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "インタビュー法とは, システム監査人が, 直接, 関係者に口頭で問い合わせ, 回 答を入手する技法をいう。",
+      "b": "現地調査法は, システム監査人が監査対象部門に直接赴いて, 自ら観察・調査す る技法なので, 当該部門の業務時間外に実施しなければならない。",
+      "c": "コンピュータ支援監査技法は, システム監査上使用頻度の高い機能に特化した, しかも非常に簡単な操作で利用できる専用ソフトウェアによらなければならない。",
+      "d": "チェックリスト法とは, 監査対象部門がチェックリストを作成及び利用して, 監 査対象部門の見解を取りまとめた結果をシステム監査人が点検する技法をいう。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q69",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 69,
+    "questionText": "金融庁 “財務報告に係る内部統制の評価及び監査の基準 (令和元年) \" における, 内部統制に関係を有する者の役割と責任の記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "株主は, 内部統制の整備及び運用について最終的な責任を有する。",
+      "b": "監査役は, 内部統制の整備及び運用に係る基本方針を決定する。",
+      "c": "経営者は, 取締役及び執行役の職務の執行に対する監査の一環として, 独立した 立場から, 内部統制の整備及び運用状況を監視, 検証する役割と責任を有している。",
+      "d": "内部監査人は, モニタリングの一環として, 内部統制の整備及び運用状況を検討, 評価し, 必要に応じて, その改善を促す職務を担っている。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q61",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 61,
+    "questionText": "情報化投資計画において, 投資効果の評価指標である ROI を説明したものはどれか。",
+    "choices": {
+      "a": "売上増やコスト削減などによって創出された利益額を投資額で割ったもの",
+      "b": "売上高投資金額比, 従業員当たりの投資金額などを他社と比較したもの",
+      "c": "現金流入の現在価値から, 現金流出の現在価値を差し引いたもの",
+      "d": "プロジェクトを実施しない場合の, 市場での競争力を表したもの"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q62",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 62,
+    "questionText": "B.H. シュミットが提唱した CEM (Customer Experience Management) における, カスタマーエクスペリエンスの説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "顧客が商品,サービスを購入・使用・利用する際の, 満足や感動",
+      "b": "顧客ロイヤルティが失われる原因となる, 商品購入時のトラブル",
+      "c": "商品の購入数・購入金額などの数値で表される, 顧客の購買履歴",
+      "d": "販売員や接客只のスキル向上につながる, 重要顧客への対応経験"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q63",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 63,
+    "questionText": "ビッグデータの利活用を促す取組の一つである情報銀行の説明はどれか。",
+    "choices": {
+      "a": "金融機関が, 自らが有する顧客の決済データを分析して, 金融商品の提案や販売 など, 自らの営業活動に活用できるようにする取組",
+      "b": "国や自治体が, 公共データに匿名加工を施した上で, 二次利用を促進するために 共通プラットフォームを介してデータを民間に提供できるようにする取組",
+      "c": "事業者が, 個人との契約などに基づき個人情報を預託され, 当該個人の指示又は 指定した条件に基づき, データを他の事業者に提供できるようにする取組",
+      "d": "事業者が, 自社工場における IoT 機器から収集された産業用データを, インター ネット上の取引市場を介して, 他の事業者に提供できるようにする取組"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q64",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 64,
+    "questionText": "システム要件定義プロセスにおいて, トレーサビリティが確保されていることを説 明した記述として, 適切なものはどれか。",
+    "choices": {
+      "a": "移行マニュアルや運用マニュアルなどの文書化が完了しており, システム上でど のように業務を実施するのかを利用者が確認できる。",
+      "b": "所定の内外作基準に基づいて外製する部分が決定され, 調達先が選定され, 契約 が締結されており, 調達先を容易に変更することはできない。",
+      "c": "モジュールの相互依存関係が確定されており, 以降の開発プロセスにおいて個別 モジュールの仕様を変更することはできない。",
+      "d": "利害関係者の要求の根拠と成果物の相互関係が文書化されており, 開発の途中で 生じる仕様変更をシステムに求められる品質に立ち返って検証できる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q65",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 65,
+    "questionText": "情報システムの調達の際に作成される RFI の説明はどれか。",
+    "choices": {
+      "a": "調達者から供給者候補に対して, システム化の目的や業務内容などを示し, 必要 な情報の提供を依頼すること",
+      "b": "調達者から供給者候補に対して, 対象システムや調達条件などを示し, 提案書の 提出を依頼すること",
+      "c": "調達者から供給者に対して, 契約内容で取り決めた内容に関して, 変更を要請す ること",
+      "d": "調達者から供給者に対して, 双方の役割分担などを確認し, 契約の締結を要請す と3"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q66",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 66,
+    "questionText": "組込み機器の開発を行うために, ベンダーに見積りを依頼する際に必要なものと して, 適切なかものはどれか。ここで, システム開発の手順は共通フレーム 2013 に沿 うものとする。",
+    "choices": {
+      "a": "納品書",
+      "b": "評価仕様書",
+      "c": "見積書",
+      "d": "要件定義書"
+    },
+    "correctAnswer": "d",
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q67",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 67,
+    "questionText": "Web で広告費を 699, 960 円掛けて, 単価 1,590 円の商品を 1, 999 個販売した。ROAS (Return On Advertising Spend) は何%か。",
+    "choices": {
+      "a": "496",
+      "b": "69",
+      "c": "250",
+      "d": "609"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q68",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 68,
+    "questionText": "バランススコ",
+    "choices": {
+      "a": "切り口となる二つの要素を X 軸, Y 軸として, 市場における自社又は自社製品の ポジションを表現したもの",
+      "b": "財務, 顧客, 内部ビジネスプロセス, 学習と成長という四つの視点を基に, 課題, 施策, 目標の因果関係を表現したもの",
+      "c": "市場の魅力度, 自社の優位性という二つの軸から成る四つのセルに自社の製品や 事業を分類して表現したもの",
+      "d": "どのような顧客層に対して, どのような経営資源を使用し, どのような製品・サ ービスを提供するのかを表現したもの"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q69",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 69,
+    "questionText": "新規ビジネスを立ち上げる際に実施するフィージビリティスタディはどれか。",
+    "choices": {
+      "a": "新規ビジネスに必要なシステム構築に対する IT 投資を行うこと",
+      "b": "新規ビジネスの採算性や実行可能性を, 調査・分析し, 評価すること",
+      "c": "新規ビジネスの発掘のために, アイディアを社内公募すること",
+      "d": "新規ビジネスを実施するために必要な要員の教育訓練を行うこと"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q72",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 72,
+    "questionText": "",
+    "choices": {
+      "a": "小売販売の会社が, 店舗や EC サ",
+      "b": "物品などの売買に際し, 信頼のおける中立的な第三者が契約当事者の間に入り 代金決済等取引の安全性を確保するサービス",
+      "c": "分散的に存在する事業者, 個人や機能への一括的なアクセスを顧客に提供し, 比 較, まとめ, 統一的な制御, 最適な組合せなどワンストップでのサービス提供を可 能にするサービス",
+      "d": "本部と契約した加盟店が, 本部に対価を支払い, 販売促進, 確立したサービスや 商品などを使う権利を受け取るサービス 間73 各種センサーを取り付けた航空機のエンジンから飛行中に収集したデータを分析し 仮想空間に構築したエンジンのモデルに反映してシミュレーションを行うことによ って, 各パーツの消耗状況や交換時期を正確に予測できるようになる。このように 産業機器などに IoT 技術を活用し, 現実世界や物理的現象をリアルタイムに仮想空 間で忠実に再現することを表したものはどれか。 ア サーバ仮想化 イ スマートグリッド ウ スマートメーター エ デジタルツイン ー 36 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q74",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 74,
+    "questionText": "事業部制組織の特徴を説明したものはどれか。",
+    "choices": {
+      "a": "ある問題を解決するために一定の期間に限って結成され, 問題解決とともに解散 する。",
+      "b": "業務を機能別に分け, 各機能について部下に命令, 指導を行う。",
+      "c": "製品, 地域などで構成された組織単位に, 利益責任をもたせる。",
+      "d": "戦略的提携や共同開発など外部の経営資源を積極的に活用することによって, 経 営環境に対応していく。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q76",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 76,
+    "questionText": "原価計算基準に従い製造原価の経費に算人する費用はどれか。",
+    "choices": {
+      "a": "製品を生産している機械装置の修繕費用",
+      "b": "台風で被害を受けた製品倉庫の修繕費用",
+      "c": "賃貸目的で購入した倉庫の管理費用",
+      "d": "本社社屋建設のために借り入れた資金の支払利息"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q77",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 77,
+    "questionText": "会社の固定費が 150 百万円, 変動費率が 69%%のとき, 利益 59 百万円が得られる売 上高は何百万円か。",
+    "choices": {
+      "a": "333",
+      "b": "425",
+      "c": "458",
+      "d": "500"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q78",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 78,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "継続的な取引が行われているので, 支払条件 支払期日などを記載した書面をあ らかじめ交付し, 個々の発注書面にはその事項の記載を省略する。",
+      "b": "顧客が求める仕様が確定していなかったので, 発注の際に, 下請事業者に仕様が 未記載の書面を交付し, 仕様が確定した時点では, 内容を書面ではなく口頭で伝え る。",
+      "c": "顧客の都合で仕様変更の必要が生じたので, 下請事業者と協議の上, 発生する費 用の増加分を下請代金に加算することによって仕様変更に応じてもらう。",
+      "d": "振込手数料を下請事業者が負担する旨を発注前に書面で合意したので, 親事業者 が負担した実費の範囲内で振込手数料を差し引いて下請代金を支払う。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R05_春期_Q86",
+    "examYear": "R05",
+    "examSeason": "春期",
+    "questionNumber": 86,
+    "questionText": "技術者倫理の遵守を妨げる要因の一つとして, 集団思考というものがある。 集団思 考の説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "自分とは違った視点から事態を見ることができず, 客観性に欠けること",
+      "b": "組織内の権威に無批判的に服従すること",
+      "c": "正しいことが何かは知っているが, それを実行する勇気や決断力に欠けること",
+      "d": "強い連帯性をもつチームが自らへの批判的思考を欠いて, 不合理な合意へと達す ること mas 40 ここ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]

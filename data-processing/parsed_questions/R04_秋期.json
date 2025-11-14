@@ -1,0 +1,812 @@
+[
+  {
+    "questionId": "R04_秋期_Q86",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 86,
+    "questionText": "選択方法 全問必須 5. 答案用紙の記入に当たっては, 次の指示に従ってください。 () 答案用紙は光学式読取り装置で読み取った上で採点しますので, B 又は HB の黒 鉛筆で答案用紙のマークの記入方法のとおりマークしてください。マークの濃度 がうすいなど, マークの記入方法のとおり正しくマークされていない場合は。 読 み取れないことがあります。 特にシャープペンシルを使用する際には, マークの濃 度に十分注意してください。訂正の場合は, あとが残らないよ うに消しゴムできれ いに消し, 消しくずを残さないでください。 (2) 受験番号欄に受験番号を, 生年月日欄に受験票の生年月日を記入及びマークし てください。 答案用紙のマークの記入方法のとおりマークされて いない場合は, 採点されないことがあります。生年月日欄については, 受験票の生年月日を訂正し た場合でも, 訂正前の生年月日を記入及びマークしてください。 G) 解答は, 次の例題にならって, 解答欄に一つだけマークしてください。筐案用 紙のマークの記入方法のとおりマークされていなりい場合は, 採点されません。 〔例題】 秋期の情報処理技術者試験が実施される月はどれか。",
+    "choices": {
+      "a": "8",
+      "b": "9",
+      "c": "19",
+      "d": "11 正しい答えは “ウ 19\" ですから, 次のようにマークしてください。 例題 〈⑦)(①) 蘭 や 注意事項は問題冊子の裏表紙に続きます。 こちら側から裏返して, 必ず読んでください。 ーー ] mm)"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q01",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 1,
+    "questionText": "aを正の整数とし, bニa*とする。a を 2 進数で表現するとn ビットであるとき, b を 2 進数で表現すると最大で何ビットになるか。",
+    "choices": {
+      "a": "n十1",
+      "b": "2n",
+      "c": "n2<",
+      "d": "2\""
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q02",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 2,
+    "questionText": "AB, C, D を論理変数とするとき, 次のカルノー図と等価な論理式はどれか。こ こで, ・は論理積, は論理和, XはXの否定を表す。 回回回回 | 9 |ilelelil | mw lelililel | nm lelilile | 9 |elelele",
+    "choices": {
+      "a": "A・B・C・D十B・D",
+      "b": "A・B・C・D十B・D",
+      "c": "A・B・D十B・D",
+      "d": "A・B・D十B・D"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q03",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 3,
+    "questionText": "製品 199 個を 1 ロットとして生産する。一つのロットからサンプルを 3 個抽出して 検査し, 3 個とも良品であればロット全体を合格とする。190 個中に 10 個の不良品を 含むおロットが合格と判定される確率は幾らか。 ァッ _@ 405 _89 _87 7 245 1 539 し 119 坦 97 ーー 3 記 間4 AIにおける過学習の説明として, 最も適切なかがものはどれか。",
+    "choices": {
+      "a": "ある領域で学習した学習済みモデルを, 別の領域に再利用することによって, 効 率的に学習させる。",
+      "b": "学習に使った訓練データに対しては精度が高い結果となる一方で, 未知のデータ に対しては精度が下がる。",
+      "c": "期待している結果とは掛け離れている場合に, 結果側から逆方向に学省させて, その差を少なくする。",
+      "d": "膨大な訓練データを学習させても効果が得られない場合に, 学習目標として成功 と判断するための報酬を与えることによって, 何が成功か分かるようにする。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q05",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 5,
+    "questionText": "自然数をキーとするデータを, ハッシュ表を用いて管理する。キーx のハッシュ 関数 h (x) を h (x) ニ xmod n とすると, 任意のキーaとbが衝突する条件はどれか。ここで, n はハッシュ表の大 きさであり, x mod nはx をnで割った余りを表す。",
+    "choices": {
+      "a": "ab がn の倍数",
+      "b": "ョaーb がnの倍数",
+      "c": "nがa十b の倍数",
+      "d": "nがョaーbの倍数 | ー 4 ー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q19",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 19,
+    "questionText": "L1, L2 と 2 段のキャッシュをもつプロセッサにおいて, あるプログラムを実行し たとき, L1 キャッシュのヒット率が 9.95, L2 キャッシュのヒット率が 0.6 であった。 このキャッシュシステムのヒット率は幾らか。ここで L1 キャッシュにあるデータは 全てL2キャッシュにもあるものとする。",
+    "choices": {
+      "a": "09.57",
+      "b": "9.6",
+      "c": "9.95",
+      "d": "6.98 5 6 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q11",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 11,
+    "questionText": "電気泳動型電子ペーパーの説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "デバ",
+      "b": "電圧を印加 した電極に, 着色した帯電粒子を集めて表示する。",
+      "c": "電圧を印加すると発光する薄膜デバイスを用いて表示する。",
+      "d": "半導体デバイス上に作成した微小な鏡の向きを変えて, 反射すすことによって表 示する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q12",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 12,
+    "questionText": "コンテナ型仮想化の説明として, 適切なかものはどれか。",
+    "choices": {
+      "a": "物理サーバと物理サーバの仮想環境とが 0S を共有するので, 物理サーバか物理 サーバの仮想環境のどちらかに 0S をもてばよい。",
+      "b": "物理サーバにホスト 0S をもたず, 物理サーバにインストールした仮想化ソフト",
+      "c": "物理サーバのホスト 0S と仮想化ソフトウェアによって, プログラムの実行環境 を仮想化するので, 仮想サーバに個別のゲスト 0S をもたない。",
+      "d": "物理サーバのホスト 0S にインストールした仮想化ソフトウェアによって, 個別 のゲスト 0S をもった仮想サーバを動作させる。 = 7 ease"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q13",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 13,
+    "questionText": "システムの信頼性設計に関する記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "フェールセーフとは, 利用者の誤操作によってシステムが異常終了してしまうこ とのないように, 単純なミスを発生させないようにする設計方法である。",
+      "b": "フェールソフトとは, 故障が発生した場合でも機能を縮退させることなく稼働を 継続する概念である。",
+      "c": "フォールトアボイダンスとは, システム構成要素の個々の品質を高めて故障が発 生しないようにする概念である。",
+      "d": "フォールトトレランスとは, 故障が生じてもシステムに重大な影響が出ないよう に, あらかじめ定められた安全状態にシステムを固定し, 全体として安全が維持さ れるような設計方法である。 間14 あるシステムにおいて, MTBF と MTTR がともに 1.5 倍になったとき, アベイラビリ ティ (稼働率) は何倍になるか。 ア ー イ 1.5 ウ 2.25 工 変わらない 間15 あるクライアントサーバシステムにおいて, クライアントから要求された 1 件の検 素を処理するために, サーバで平均 100 万命令が実行される。1 件の検索につき, ネ ットワーク内で転送されるデータは平均 2X195 バイトである。このサーバの性能は 190 MIPS であり, ネットワークの転送速度は 8X19' ビットノ秒である。このシステ ムにおいて, 1 秒間に処理できる検索要求は何件か。ここで, 処理できる件数は, サ ーバとネットワークの処理能力だけで決まるものとする。また, 1 バイトは8 ビット とする。 ア 596 イ 199 ウ 2606 エ 460 ーー 8 eee"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q17",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 17,
+    "questionText": "ほとんどのプログラムの大きさがページサイズの半分以下のシステムにおいて, ペ ージサイズを半分にしたときに予想されるものはどれか。ここで, このシステムは主 記憶が不足しがちで, 多重度やスループットなどはシステム性能の限界で運用してい るものとする。",
+    "choices": {
+      "a": "ページサ",
+      "b": "ページ内に余裕がなくなるので, ページ置換えによってシステム性能が低下する。",
+      "c": "ページ内の無駄な空き領域が減少するので, 主記憶不足が緩和される。",
+      "d": "ページフォールトの回数が増加するので, システム性能が低下する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q19",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 19,
+    "questionText": "LANに接続された 3 台のプリンターA ~ C がある。印刷時間が分単位で 4. 6, 3 る 5, 3, 4, 3, 1 の 9 個の印刷データがこの順で存在する場合,、プリンターC が印刷に 要する時間は何分か。ここで, プリンターは, 複数台空いていれば, A, B, C の順で 割り当て, 1 台も空いていなければ, どれかが空くまで待ちになる。 また, 初期状態 では3台とも空いている。",
+    "choices": {
+      "a": "7",
+      "b": "9",
+      "c": "11",
+      "d": "12 間29 アクチュエーターの機能として, 適切ながものはどれか。 ア アナログ電気信号を, コンピュータが処理可能なデジタル信号に変える。 イ キーボード, タッチパネルなどに使用され, コンピュータに情報を入力する。 ウ コンピュータが出力した電気信号を力学的な運動に変える。 エ 物理量を検出して, 電気信号に変える。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q24",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 24,
+    "questionText": "顧客に, AZ の英大文字 26 種類を用いた顧客コードを割り当てたい。現在の顧客 総数は 8, 999 人であって, 毎年, 前年対比で 2 割ずつ顧客が増えていくものとする。 3 年後まで全顧客にコードを割り当てられるようにするためには, 顧客コードは少な くとも何桁必要か。",
+    "choices": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q27",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 27,
+    "questionText": "従業員” 表に対して \"異動\" 表による差集合演算を行った結果はどれか。 従業員 異動 Pa イ の」 エ ー 13 一 間28 “商品” 表に対して, 次のSQL 文を実行して得られる仕入先コード数は幾つか。 [SQL 文〕 SELECT DISTINCT 仕入先コード FROM 商品 WHERE (販売単価 - 仕入単価) > (SELECT AVG (販売単価 - 仕入単価) FROM 商品) 商品 | mg | 5 | sw | w | ze | ww | 5 | sw | mw | rw",
+    "choices": {
+      "a": "1",
+      "b": "の」 エ ー 13 一 間28 “商品” 表に対して, 次のSQL 文を実行して得られる仕入先コード数は幾つか。 [SQL 文〕 SELECT DISTINCT 仕入先コード FROM 商品 WHERE (販売単価 - 仕入単価) > (SELECT AVG (販売単価 - 仕入単価) FROM 商品) 商品 | mg | 5 | sw | w | ze | ww | 5 | sw | mw | rw ア 1 イ 2",
+      "c": "3 忠 供",
+      "d": "ー 13 一"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q29",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 29,
+    "questionText": "チェックポイントを取得する DBMS において, 図のような時間経過でシステム障害 が発生した。 前進復帰 (ロールフォワード) によって障害回復できるトランザクショ ンだけを全て挙げたものはどれか。 チェックポイント システム障害発生 1 1 時間 ーーーー ーートー ーーーーーーーー> 開始 T1 コミット! ューーーー一ヶ ! 1 開始 1 T2 1 1 | 開始 13 1 開始 ! 14 コミット 1 ーーーーーートーーーー- 1 1 1 , 開始 T5 コミット 1 ペーーーーーーーーーーーーーー ーー ーーーー 上 ( 1 1 l 1",
+    "choices": {
+      "a": "Ti",
+      "b": "1T2と1T3",
+      "c": "T4とT5",
+      "d": "T5"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q39",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 39,
+    "questionText": "ACID 特性の四つの性質に含まれないものはどれか。",
+    "choices": {
+      "a": "一貫性",
+      "b": "可用性",
+      "c": "原子性",
+      "d": "耐久性"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q32",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 32,
+    "questionText": "TCP/IP ネットワークで, データ転送用と制御用とに異なるウェルノウンポート番 号が割り当てられているプロトコルはどれか。",
+    "choices": {
+      "a": "FTP",
+      "b": "POP3",
+      "c": "SMTP",
+      "d": "SNMP 間33 IPv4 のネットワークアドレスが 192.168.16.49/29 のとき, 適切ながものはどれか。 ア 192.168.16.48 は同一サブネットワーク内の IP アドレスである。 イ サブネットマスクは, 255.255. 255.240 である。 ウ 使用可能なホストアドレスは最大 6 個である。 エ ホスト部は 29 ビットである。 so 16 ep"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q34",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 34,
+    "questionText": "IP の上位階層のプロトコルとして, コネクションレスのデータグラム通信を実現 し, 信頼性のための確認応答や順序制御などの機能をもたないプロトコルはどれか。",
+    "choices": {
+      "a": "ICMP",
+      "b": "PPP",
+      "c": "TCP",
+      "d": "UDP 間35 次のURL に対し, 受理する Web サーバのポート番号(8080) を指定できる箇所はどれ か。 https://www. examp le. com/member/Login?id=user ア クエリ文字列(id=user)の直後 https://www. examp le.com/member/Login?id=user:8080 イ スキーム(https)の直後 https:8080://www. example. com/member/login?id=user ウ パス(/member/Login)の直後 https://www. examp le.com/member/login:89897id=user エエ ホスト名(www. example.com)の直後 https://www. example.com:8989/member/login?id=user"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q36",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 36,
+    "questionText": "オープンリゾルバを悪用した攻撃はどれか。",
+    "choices": {
+      "a": "ICMP パケットの送信元を偽装し, 多数の宛先に送ることによって, 攻撃対象の コンピュータに大量の偽の ICMP パケットの応答を送る。",
+      "b": "PC 内の hosts ファイルにある, ドメインと IP アドレスとの対応付けを大量に書 き換え, 偽の Web サイトに誘導し, 大量のコンテンツをダ",
+      "c": "送信元 IP アドレスを偽装した DNS 問合せを多数の DNS サーバに送ることによっ て, 攻撃対象のコンピュータに大量の応答を送る。",
+      "d": "誰でも電子メールの送信ができるメールサーバを踏み台にして, 電子メールの送 信元アドレスを詐称したなりすましメールを大量に送信する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q37",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 37,
+    "questionText": "サイドチャネル攻撃に該当するものはどれか。",
+    "choices": {
+      "a": "暗号アルゴリズムを実装した攻撃対象の物理デバ",
+      "b": "企業などの秘密情報を不正に取得するソーシャルエンジニアリングの手法の一つ であり, 不用意に捨てられた秘密情報の印刷物をオフィスの紙ごみの中から探し出 す。",
+      "c": "通信を行う 2者間に割り込み, 両者が交換する情報を自分のものとすり替えるこ とによって, その後の通信を気付かれることなく盗聴する。",
+      "d": "データベースを利用する Web サイトに入力パラメータとして SQL 文の断片を送信 することによって, データベースを改ざんする。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q38",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 38,
+    "questionText": "デジタル証明書が失効しているかどうかをオンラインで確認するためのプロトコル はどれか。",
+    "choices": {
+      "a": "CHAP",
+      "b": "LDAP",
+      "c": "OCSP",
+      "d": "SNMP"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q39",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 39,
+    "questionText": "組織的なかインシデント対応体制の構築を支援する目的で JPCERT コーディネーショ ンセンターが作成したものはどれか。",
+    "choices": {
+      "a": "CSIRT マテリアル",
+      "b": "ISMS ユーザーズガイド",
+      "c": "証拠保全ガイドライン",
+      "d": "組織における内部不正防止ガイドライン"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q41",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 41,
+    "questionText": "JIS 0 31096:2019 (リスクマネジメントー指針) におけるリスク",
+    "choices": {
+      "a": "リスク特定, リスク評価. リスク受容",
+      "b": "リスク特定, リスク分析, リスク評価",
+      "c": "リスク分析, リスク対応, リスク受容",
+      "d": "リスク分析, リスク評価, リスク対応"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q42",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 42,
+    "questionText": "WAF による防御が有効な攻撃として, 最も適切なものはどれか。",
+    "choices": {
+      "a": "DNS サーバに対する DNS キャッシュポ",
+      "b": "REST API サービスに対する API の脆弱性を狙った攻撃",
+      "c": "SMTP サーバの第三者不正中継の脆弱性を悪用したフィッシングメールの配信",
+      "d": "電子メールサービスに対する電子メール爆弾 es 19 =っ"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q43",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 43,
+    "questionText": "家庭内で, PC を無線 LAN ルータを介してインターネットに接続するとき, 期待で きるセキュリティ上の効果の記述のうち, 適切なものはどれか。",
+    "choices": {
+      "a": "IP マスカレード機能による,",
+      "b": "PPPoE 機能による, 経路上の盗聴に対する防止効果",
+      "c": "WPA 機能による, 不正な Web サイトへの接続に対する防止効果",
+      "d": "WPS機能による, インターネットからのマルウェア感染に対する防止効果 間44 SPF (Sender Policy Framework) の仕組みはどれか。 ア 電子メールを受信するサーバが, 電子メールに付与されているデジタル署名を使 って, 送信元ドメインの詐称がないことを確認する。 イ 電子メールを受信するサーバが, 電子メールの送信元のドメイン情報と, 電子メ ールを送信したサーバの IP アドレスから, 送信元ドメインの詐称がないことを確 認する。 ウ 電子メールを送信するサーバが, 電子メールの宛先のドメインや送信者のメール アドレスを問わず, 全ての電子メールをアーカイブする。 エ 電子メールを送信するサーバが, 電子メールの送信者の上司からの承認が得られ るまで, 一時的に電子メールの送信を保留する。 me 20 ーー"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q45",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 45,
+    "questionText": "ファジングに該当するものはどれか。",
+    "choices": {
+      "a": "Web サーバに対し, ログ",
+      "b": "ソフト",
+      "c": "パスワードとしてよく使われる文字列を数多く列挙したリストを使って, 不正に ログインを試行する。",
+      "d": "マークアップ言語で書かれた文字列を処理する前に, その言語にとって特別な意 味をもつ文字や記号を別の文字列に置換して, 脆弱性が悪用されるのを防止する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q46",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 46,
+    "questionText": "仕様書やソースコードといった成果物について, 作成者を含めた複数人で, 記述さ れたシステムやソフトウェ",
+    "choices": {
+      "a": "ウォークスルー",
+      "b": "サンドイッチテスト",
+      "c": "トップダウンテスト",
+      "d": "並行シミュレーション 3 21 ドー:"
+    },
+    "correctAnswer": "a",
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q47",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 47,
+    "questionText": "信頼性工学の視点で行うシステム設計において, 発生し得る障害の原因を分析する 手法である「『TA の説明はどれか。",
+    "choices": {
+      "a": "システムの構成品目の故障モードに着目して, 故障の推定原因を列挙し, システ ムへの影響を評価することによって, システムの信頼性を定性的に分析する。",
+      "b": "障害と, その中間的な原因から基本的な原因までの全ての原因とを列挙し, それ らをゲート (論理を表す図記号) で関連付けた樹形図で表す。",
+      "c": "障害に関するデータを収集し, 原因について “なぜなぜ分析” を行い, 根本原因 を明らかにする。",
+      "d": "多角的で, 互いに重ならないように定義した 0DC 属性に従って障害を分類し, ど の分類に障害が集中しているかを調べる。 |"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q49",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 49,
+    "questionText": "エクストリームプログラミング (XP : Extreme Programming) における “テスト駆 動開発\"の特徴はどれか。",
+    "choices": {
+      "a": "最初のテストで, なるべく多くのバグを摘出する。",
+      "b": "テストケースの改善を繰り返す。",
+      "c": "テストでのカバレージを高めることを目的とする。",
+      "d": "プログラムを書く前にテストコードを記述する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q59",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 59,
+    "questionText": "スクラムのスプリントにおいて, (1) ~ー (3) のプラクティスを採用して開発を行 い, スプリントレビューの後にKPT 手法でスプリントレトロスペクティブを行った。 “KPT の \"T に該当する例はどれか。 [プラクティス]〕 (1) ペ",
+    "choices": {
+      "a": "開発したプログラムは欠陥が少なかったので, 今後もペアプログラミングを継続 する。",
+      "b": "スタンドアップミーティングにメンバー全員が集まらないことが多かった。",
+      "c": "次のスプリントからは, スタンドアップミーティングにタイムキーパーを置き, 終了 5分前を知らせるようにする。",
+      "d": "テストコードの作成に見積り以上の時間が掛かった。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q51",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 51,
+    "questionText": "プロジェクトマネジメントにおけるスコープの管理の活動はどれか。",
+    "choices": {
+      "a": "開発ツールの新機能の教育が不十分と分かったので, 開発ツールの教育期間を 2 日間延長した。",
+      "b": "要件定義が完了した時点で再見積りをしたところ, 当初見積もった開発コストを 超過することが判明したので, 追加予算を確保した。",
+      "c": "連携する計画であった外部システムのリリースが延期になったので, この外部シ ステムとの連携に関わる作業は別プロジェクトで実施することにした。",
+      "d": "割り当てたテスト担当者が期待した成果を出せなかったので, 経験豊富なテスト 担当者と交代した。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q52",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 52,
+    "questionText": "図は, 実施する三つの",
+    "choices": {
+      "a": "11",
+      "b": "12",
+      "c": "13 王 間53 あるシステムの設計から結合テストまでの作業について, 開発工程ごとの見積工数 を表 1 に, 開発工程ごとの上級技術者と初級技術者との要員割当てを表 2 に示す。上 - 級技術者は, 初級技術者に比べて, プログラム作成・単体テストにおいて 2 倍の生産 性を有する。表 1 の見積工数は, 上級技術者の生産性を基に算出している。 全ての開発工程に対して, 上級技術者を 1 人追加して割り当てると, この作業に要 する期間は何か月短縮できるか。ここで, 開発工程の期間は重複させないものとし 要員全員が1 か月当たり 1 人月の工数を投入するものとする。 表 1 表 2 要員割当て (人) 開発",
+      "d": "4"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q54",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 54,
+    "questionText": "あるシステム導入プロジェクトで, 調達候補のパッケージ製品を多基準意思決定分 析の加重総和法を用いて評価する。製品 A一製品D のうち, 総合評価が最も高い製 品はどれか。ここで, 評価点数の値が大きいほど, 製品の評価は高い。 [各製品の評価] 評価項目の 製品の評価点数 評価項目 mo",
+    "choices": {
+      "a": "製品A",
+      "b": "製品B",
+      "c": "製品C",
+      "d": "製品D"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q55",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 55,
+    "questionText": "サービスマネジメントにおける問題管理の目的はどれか。",
+    "choices": {
+      "a": "インシデントの解決を, 合意したサービスレベル目標の時間枠内に達成すること を確実にする。",
+      "b": "インシデントの未知の根本原因を特定し, インシデントの発生又は再発を防ぐ。",
+      "c": "合意した目標の中で, 合意したサービス継続のコミットメントを果たすことを確 実にする。",
+      "d": "変更の影響を評価し, リスクを最小とするようにして実施し, レビューすること を確実にする。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q59",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 59,
+    "questionText": "システム監査における “監査手続\"として, 最も適切なものはどれか。",
+    "choices": {
+      "a": "監査計画の立案や監査業務の進捗管理を行うための手順",
+      "b": "監査結果を受けて, 監査報告書に監査人の結論や指摘事項を記述する手順",
+      "c": "監査項目について, 十分かつ適切な証拠を入手するための手順",
+      "d": "監査テーマに合わせて, 監査チームを編成する手順"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q69",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 69,
+    "questionText": "システム監査基準の意義はどれか。",
+    "choices": {
+      "a": "システム監査業務の品質を確保し, 有効かつ効率的な監査を実現するためのシス テム監査人の行為規範となるもの",
+      "b": "システム監査の信頼性を保つために, システム監査人が保持すべき情報システム 及びシステム監査に関する専門的知識・技能の水準を定めたもの",
+      "c": "情報システムのガバナンス, マネジメント, コントロールを点検・評価・検証す る際の判断の尺度となるもの",
+      "d": "どのような組織体においても情報システムの管理において共通して留意すべき基 本事項を体系化・一般化したもの ーー 29 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q61",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 61,
+    "questionText": "BCPの説明はどれか。",
+    "choices": {
+      "a": "企業の戦略を実現するために, 財務, 顧客, 内部ビジネスプロセス, 学習と成長 という四つの視点から戦略を検討したもの",
+      "b": "企業の目標を達成するために, 業務内容や業務の流れを可視化し, 一定のサイク ルをもって継続的に業務プロセスを改善するもの",
+      "c": "業務効率の向上, 業務コストの削減を目的に, 業務プロセスを対象としてアウト ソースを実施するもの",
+      "d": "事業の中断・阻害に対応し, 事業を復旧し, 再開し, あらかじめ定められたレベ ルに回復するように組織を導く手順を文書化したもの"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q63",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 63,
+    "questionText": "エンタープライズ",
+    "choices": {
+      "a": "オブジェクト指向設計を支援する様々な手法を統一して標準化したものであり, クラス図などの構造図と, ユースケース図などの振る舞い図によって, システムの 分析や設計を行うものである。",
+      "b": "概念データモデルを, エンティティとリレーションシップとで表現することによ って, データ構造やデータ 項目間の関係を明らかにするものである。",
+      "c": "各業務や情報システムなどを, ビジネスアーキテクチャ, データアーキテクチャ, アプリケーションアーキテクチャ, テクノロジアーキテクチャの四つの体系で分析 し, 全体最適化の観点から見直すものである。",
+      "d": "企業のビジネスプロセスを, データフロー, プロセス, ファイル, データ源泉 データ吸収の四つの基本要素で抽象化して表現するものである。 間64 投資効果を正味現在価値法で評価するとき, 最も投資効果が大きい (又は最も損失 が小さい) シナリオはどれか。ここで, 期間は 3 年間, 割引率は 5%とし, 各シナリ オのキャッシュフローは表のとおりとする。 単位 万円 1 『 | | mw | wl el Lamecee | 6 | 6 | | 5 ア A イ B ウ C エ 投資をしない ニコ捧 ="
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q67",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 67,
+    "questionText": "M&A の際に, 買収対象企業の経営実態, 資産や負債, 期待収益性といった企業価値 などを買手が詳細に調査する行為はどれか。",
+    "choices": {
+      "a": "株主総会招集請求",
+      "b": "公開買付開始公告",
+      "c": "セグメンテーション",
+      "d": "デューデリジェンス"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q68",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 68,
+    "questionText": "ターゲットリターン価格設定の説明はどれか。",
+    "choices": {
+      "a": "競合の価格を十分に考慮した上で価格を決定する。",
+      "b": "顧客層, 時間帯, 場所など市場セグメントごとに異なった価格を決定する。",
+      "c": "目標とする投資収益率を実現するように価格を決定する。",
+      "d": "リサーチなどによる消費者の値頃感に基づいて価格を決定する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q69",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 69,
+    "questionText": "コンジョイント分析の説明はどれか。",
+    "choices": {
+      "a": "顧客ごとの売上高, 利益額などを高い順に並べ, 自社のビジネスの中心をなして いる顧客を分析する手法",
+      "b": "商品がもつ価格, デザイン, 使いやすさなど, 購入者が重視している複数の属性 の組合せを分析する手法",
+      "c": "同一世代は年齢を重ねても, 時代が変化しても, 共通の行動や意識を示すことに 注目した, 消費者の行動を分析する手法",
+      "d": "ブランドがもつ複数のイメージ項目を散布図にプロットし, それぞれのブランド のポジショニングを分析する手法"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q79",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 79,
+    "questionText": "APIエコノミーの事例として, 適切なものはどれか。",
+    "choices": {
+      "a": "既存の学内データベースの API を活用できる EAI (Enterprise Application Integration) ツールを使い, 大学業務システムを短期間で再構築することによっ て経費を削減できた。",
+      "b": "自社で開発した音声合成システムの利用を促進するために, 自部門で開発した API を自社内の他の部署に提供した。",
+      "c": "不動産会社が自社で保持する顧客データを BI (Business Intelligence) ツール の API を使い可視化することによって, 商圏における売上規模を分析できるように なった。",
+      "d": "ホテル事業者が, 他社が公開しているタクシー配車アプリの API を自社のアプリ に組み込み, サービスを提供した。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q71",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 71,
+    "questionText": "ファブレスの特徴を説明したものはどれか。",
+    "choices": {
+      "a": "1 人又は数人が全工程を担当する生産方式であり, 作業内容を変えるだけで生産 品目を変更することができ, 多品種少量生産への対応が容易である。",
+      "b": "後工程から, 部品納入の時期, 数量を示した作業指示書を前工程に渡して部品供 給を受ける仕組みであり, 在庫を圧縮することができる。",
+      "c": "生産設備である工場をもたないので, 固定費を圧縮することができ, 需給変動な どにも迅速に対応可能であり, 企画・開発に注力することができる。",
+      "d": "生産設備をもたない企業から製造を請け負う事業者・生産形態のことであり, 効 率の良い設備運営や高度な研究開発を行うことができる。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q78",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 78,
+    "questionText": "A社は顧客管理レシステムの開発を, 情報システム子会社である B 社に委託し, B 社 は要件定義を行った.上で,。 ソフトウェ",
+    "choices": {
+      "a": "A社",
+      "b": "B社",
+      "c": "〈社",
+      "d": "社員D"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q79",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 79,
+    "questionText": "発注者と受注者との間でソフトウェ",
+    "choices": {
+      "a": "指揮命令権は発注者にあり, さらに, 発注者の事業所での作業を実施可能にする ために, 受注者に所属する作業者は, 新たな雇用契約を発注者と結ぶ。",
+      "b": "指揮命令権は発注者にあり, 受注者に所属する作業者は, 新たな雇用契約を発注 者と結ぶことなく, 発注者の事業所で作業を実施する。",
+      "c": "指揮命令権は発注者にないが, 発注者の事業所での作業を実施可能にするために, 受注者に所属する作業者は, 新たな雇用契約を発注者と結ぶ。",
+      "d": "指揮命令権は発注者になく, 受注者に所属する作業者は, 新たな雇用契約を発注 者と結ぶことなく, 発注者の事業所で作業を実施する。"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  },
+  {
+    "questionId": "R04_秋期_Q89",
+    "examYear": "R04",
+    "examSeason": "秋期",
+    "questionNumber": 89,
+    "questionText": "ソフトウェ",
+    "choices": {
+      "a": "ROM化したソフトウェアを内蔵した組込み機器",
+      "b": "アプリケーションソフト",
+      "c": "利用者がPC にインストールした 0S",
+      "d": "利用者によってネットワークからダウンロードされたデータ ー 市"
+    },
+    "correctAnswer": null,
+    "category": null,
+    "subcategory": null,
+    "difficulty": null,
+    "explanation": null
+  }
+]
